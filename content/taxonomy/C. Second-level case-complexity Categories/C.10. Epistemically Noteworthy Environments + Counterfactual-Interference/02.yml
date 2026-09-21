@@ -1,0 +1,12 @@
+name: "Unfriendly Environment in Modally Close non-p-Worlds"
+descriptions:
+  - |
+    In the @-world p~1~ is true and S believes that p~1~ based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment. There is no misleading evidence for p-type propositions in S’s environment.
+
+    In modally close possible worlds, p~1~ would be false and, unknown to S, there would be an interference to the effect that S’s environment would feature misleading evidence in regards to p-type propositions. The interference would also have the effect that S would only perceive the non-misleading evidence for p~n~ (where p~n~ ≠ p~1~) and, based on this, would form the true belief that p~n~.
+comments: []
+tokens:
+  - |
+    Counterfactually Vegan Cheese: Arno visits a cheese-tasting station at a supermarket. The salesperson randomly picks out one of the cheese cubes and offers it to Arno, who taste-tests it. He judges that it is traditional Gouda. He’s correct; in fact, all cubes of cheese on the tray are Gouda.
+    
+    Had Arno walked by a couple of minutes later, however, the tray full of Gouda cheese cubes would have been replaced with a tray full of low-quality Cheddar cheese cubes, except for one, which would be a vegan substitute. Moreover, the salesperson would insist on offering Arno that one specific vegan cheese cube (say, because they are interested in Arno’s reaction or because they are embarrassed about the Cheddar’s quality). Arno would correctly identify what he would be eating as a vegan substitute. The Cheddar cubes on the tray, however, would be of such low quality that, if Arno were given a chance to taste-test them (which, suppose, would only be the case in significantly more remote possible worlds, for some reason), he would mistake them for vegan cheese.

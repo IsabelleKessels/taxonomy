@@ -1,0 +1,10 @@
+name: "Unsuccessful Transmission"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that q: q is true, but S misunderstands (because external factors influence the transmission, S is inattentive, etc.) and forms the belief p based on this testimony. p is false."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+  - "In Auntie Jana 1 and Celtic Chat 3, the truth of what’s attested to is *incompatible* with what’s understood by S. In Auntie Jana 2 the truth of the proposition R attests to *does not determine* the truth of what S understands, it just happens to be the case that S’s belief is false."
+tokens:
+  - "Auntie Jana 1: Riley and Sara are talking to each other on the phone. Riley truthfully tells her, “auntie Jana is turning *seventy-one* on Sunday,” but – due to a bad phone connection – Sara mishears her and comes to believe that “auntie Jana is turning *seventy on* Sunday.”"
+  - "Auntie Jana 2: Riley and Sara are talking to each other on the phone. Riley truthfully tells her, “auntie *Jana* is turning seventy-one on Sunday,” but – due to a bad phone connection – Sara mishears her and comes to believe that “their aunt *Diana* is turning seventy-one on Sunday.”"
+  - "Celtic Chat 3: Talking on the phone to discuss the ideal formation of tonight’s match, Luke truthfully asserts to Caitlin: “Cameron Carter-Vickers has recovered from his injury.” Due to a bad phone connection, Caitlin mishears him and comes to believe that “Cameron Carter-Vickers *hasn’t* recovered from his injury.”"

@@ -1,0 +1,10 @@
+name: "Gettiered by Misconstrued Regularity Environment"
+descriptions:
+  - |
+    S is in an environment that features a regularity: Events described by q-type propositions cause events described by p-type proposition. S falsely presumes that the causal dependency between the two events is the other way around.
+
+    q~1~ is true and S believes that q~1~ based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. Inferring from q~1~ and the false premise that the event described by q~1~ is caused by the event described by p~1~, S forms the belief that p~1~. p~1~ is true.
+comments: 
+  - "Grundmann (2020) intuits about Mr. Light 1: “I […] have the clear intuition that Mr. Light knows.” (5182.)"
+tokens:
+  - "Grundmann’s (2020) Mr. Light 1: “It is Mr. Light’s job to register whether the lights are on or off in the rooms of a big hotel. He consults a table with many little lights on it, each of which refers to a specific room in the hotel. On noticing that some little light is on, Mr. Light immediately believes that the lights in the respective room are on, and vice versa. Unbeknownst to Mr. Light, none of the little lights registers the status of the lights in the respective hotel room. On the contrary, their randomly activated on/off positions switch the lights in the respective rooms on/off. When Mr. Light sees that the little light for room #23 is on, he forms the true belief that the lights are on in room #23.” (5181.)"

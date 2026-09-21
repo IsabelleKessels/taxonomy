@@ -1,0 +1,7 @@
+name: "Correct Reasoning that Indirect Cognitive Help Makes Testimony Reliable"
+descriptions:
+  - "Some factor administers [Indirect Cognitive Help] to R when R forms the belief that p. R asserts that p. S is aware that the factor is present and that it influences R’s cognitive process, increasing R’s reliability regarding whether p. S thus correctly reasons that p, which is true."
+comments: 
+  - "Goldberg (2005) doesn’t explicitly state his knowledge-intuition about Dog Anxiety, but he goes on reasoning based on the premise that Ralph counts as knowing (305)."
+tokens:
+  - "Goldberg’s (2005) Dog Anxiety: “[S]uppose that Ralph is aware that Nancy has a subconscious fear of dogs, and that whenever a dog is present Nancy (who otherwise shows no sign of anxiousness) will only assert things of which she is absolutely certain. (When dogs are not present she is not as reliable; dogs focus her mind, so to speak.) Then Ralph, observing Nancy to assert that p in the presence of a dog, might well take the dog’s presence to indicate that Nancy’s testimony is to be relied upon. If (having accepted her testimony) he then counts as coming to know that p, this would count as a case of knowledge through her testimony, where the presence of the dog is an empirical condition that grounds Ralph’s belief in the trustworthiness of Nancy’s testimony.” (305.)"

@@ -1,0 +1,9 @@
+name: "Insufficient Indirect Cognitive Help False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Insufficient Indirect Cognitive Help]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the insufficient help: In some modally close worlds q would be false and S would believe that q based on [Insufficient Indirect Cognitive Help], and believe p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Birdwatcher 5: Stefan has been administered a novel drug that increases cognitive processing and puts him in a state of high alertness to all his visual impressions. While he’s sitting in the garden, he notices a small brown bird in the bush next to him. Stefan sees it very clearly and, thanks to the drug, notices both the bird’s brown plumage and its thin and pointy beak. However, he makes a reasoning mistake when inferring that the bird is a female house sparrow. The bird is actually a dunnock, which has a similar plumage, but a thinner and pointier beak. Stefan furthermore infers that there’s a dunnock in his garden. As it so happens, this belief is true because there is a dunnock in a different part of his garden."

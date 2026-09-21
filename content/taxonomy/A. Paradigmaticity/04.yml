@@ -1,0 +1,7 @@
+name: "Misperception"
+descriptions:
+  - "p is false, but S beliefs that p, because S misperceives the matter of fact expressed by non-p."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Mouse in the Room 2: Luke discovers some black pellets in the corner of the room. He believes they are mouse droppings. In fact, they’re grains of black rice his partner spilled while cooking. His belief is false."

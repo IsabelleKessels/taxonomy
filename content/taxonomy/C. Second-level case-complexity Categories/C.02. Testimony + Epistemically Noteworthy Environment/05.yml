@@ -1,0 +1,12 @@
+name: "Silent Approval of Attester in Unfriendly Environment"
+descriptions:
+  - |
+    p is true, but attester R believes p based on [Unfriendly Environment] or [Unfriendly Instruments Environment]. R asserts that p to S, in the presence of agent T. T is a reliable and trustworthy agent who believes that p based on
+    
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or
+    - [Successful Testimony] by a fourth agent U.
+  
+    T silently approves of R’s testimony. If T had counter-evidence for p, T would have interjected. S believes that p based on the combination of R’s testimony and T’s silent approval. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R or T trustworthy, or T reliable regarding p.
+comments: []
+tokens:
+  - "Fake Barns Hitchhiker: Everything is as in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), but in this version, we focus on Henry’s son’s belief rather than Henry’s. Suppose that his son is distracted by a videogame on his phone, and not looking out of the car window. Suppose, furthermore, that Henry and his son have picked up a hitchhiker. This person knows the area well and is aware of barn-façades in the area, but that the barn they just drove by is genuine. Had it been a façade, the hitchhiker would have corrected Henry’s claim. Henry’s son’s belief that there is a barn is based on Henry’s testimony and the fact that there’s no objection."

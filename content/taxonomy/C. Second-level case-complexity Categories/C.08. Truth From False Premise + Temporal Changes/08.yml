@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief: Paradigmatic Knowledge to Knowledge From Falsehood"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    At t~2~ p is true, but S believes that p based on remembering the evidence S had at t~1~ alongside the false premise that nothing about the matter of fact that makes p true has changed between t~1~ and t~2~. As it so happens, the matter of fact which makes p true at t~1~ changed somewhat, albeit not enough to render p false at t~2~. Thus, S’s belief that p remains true throughout the whole timespan.
+comments: 
+  - "Warfield (2005) intuits about Philosophers in the Room: “I know my conclusion despite the false premise about McGinn. Here’s a first pass at an explanation: the McGinn premise is not ‘relevant’ in this case to the particular conclusion.” (405). The case is introduced as ‘Knowledge from Falsehood’ in Warfield’s paper, but it differs from the other examples he presents: there’s an interdependency between *what makes p true at t~1~ and t~2~*, rather than interdependency between the backup truth-maker and the presence of misleading evidence typical for [Knowledge From Falsehood] (see B.2)."
+tokens:
+  - "Warfield’s (2005) Philosophers in the Room: “I reason (having seen each enter the room minute ago) – ‘Jerry Fodor is in the room, Steve Stich is in the room, Colin McGin is in the room, Brian McLaughlin is in the room; therefore, at least one Rutgers philosopher of mind is in the room.’ Assume that my premises are all true except one: McGinn has, after entering, stepped out to take a phone call.” (405.)"

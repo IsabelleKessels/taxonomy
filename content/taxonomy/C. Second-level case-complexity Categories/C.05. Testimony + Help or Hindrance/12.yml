@@ -1,0 +1,6 @@
+name: "Correct Reasoning that Sensory Help Makes Testimony Reliable"
+descriptions:
+  - "Some factor administers [Sensory Help] to R when R forms the belief that p. R asserts that p. S is aware that the factor is present and that it influences R’s sensory organs or perceptual process such that R’s perception is improved when forming beliefs about whether p. S thus correctly reasons that p, which is true."
+comments: []
+tokens:
+  - "Birdwatcher 4: Stefan asserts to his wife: “The dunnock is in the garden again.” His wife looks up and sees Stefan holding his binoculars, reasoning that Stefan is reliable enough at distinguishing dunnocks from other small brown birds, when observing them through his binoculars, his wife accepts his testimony and forms the belief that there’s a dunnock in their garden, which is true."

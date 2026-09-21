@@ -1,0 +1,9 @@
+name: "Indirect Cognitive Hindrance False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Indirect Cognitive Hindrance]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the presence of the hindrance: In some modally close worlds q would be false and S would believe that q based on [Indirect Cognitive Hindrance], and believe p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Prime Minister 2: As in Russell’s (1948) Prime Minister (see B.2., [False Premise Gettier]), someone “believes, truly, that the last name of the Prime Minister in 1906 began with a B, but […] [he] believes this because he thinks that Balfour was Prime Minister then, whereas it was Campbell Bannerman” (140). In this version, the person is a student who’s sitting his A-Level history exam. He suffers from exam anxiety, which severely impacts his ability to concentrate and recall facts from memory."

@@ -1,0 +1,12 @@
+name: "Gettiered Transmission Process"
+descriptions:
+  - |
+    p is true and a trustworthy and reliable attester, R, asserts that p. Within the transmission process an interference takes place, which distorts the message to say q, which is false. As it so happens, a second independent interference takes place which amends the message back to p. S understand R to attest that p and forms the belief that p. S has no reason to suspect that interferences occurred and S has no delusional beliefs about what makes R trustworthy and reliable.
+    
+    In some modally close words only one of the two interferences would take place and the message would be distorted, S would gain a false belief that q.
+comments:
+  - "Goldman (1967) intuits about Overlooked Printing Error: “S does not know p[.]” (362.) "
+  - "Coffman (2010) intuits about Presumptuous Secretary: “Sandy doesn’t *know* that Lincoln was born in 1806: her ‘Lincoln’ belief is gettiered.” (246.)"
+tokens:
+  - "Goldman’s (1967) Overlooked Printing Error: “A newspaper reporter observes p and reports it to his newspaper. When printed, however, the story contains a typographical error so that it asserts not-p. When reading the paper, however, S fails to see the word ‘not’, and takes the paper to have asserted p. Trusting the newspaper, he infers that p is true.” (362.)"
+  - "Coffman’s (2010) Presumptuous Secretary: “An eminent historian, Hank, recently discovered that Abraham Lincoln was born not in 1809 (as most of us think) but in 1806. Hank writes a letter to his friend, Sandy, in which he asserts that Lincoln was born in 1806. When preparing the letter to be sent, Hank’s presumptuous new secretary assumes he made a careless mistake about Lincoln’s date of birth, and changes the text so that it says Lincoln was born in 1809. Unbeknownst to all, the secretary’s printer has just developed the following glitch: when directed to print a ‘9’, some other numeral besides ‘9’ is randomly selected and printed instead. As luck would have it, Hank’s letter gets printed as stating that Lincoln was born in 1806. When Sandy receives the letter, she consults it for the answer to the question of when Lincoln was born. Sandy comes to believe, justifiedly and truly, that Lincoln was born in 1806.” (246.)"

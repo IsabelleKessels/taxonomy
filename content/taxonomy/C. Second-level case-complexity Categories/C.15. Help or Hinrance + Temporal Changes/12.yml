@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Help to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Direct Cognitive Help], [Indirect Cognitive Help] or [Sensory Help]. 
+
+    At t~2~ p is true and S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk Demon 12: In the morning, a benevolent demon sets Anna into a state of believing that there’s milk in the fridge, which is true. Later that day, Anna looks into the fridge and forms the false belief that there’s no milk there, because the carton is hidden from her view behind other containers."

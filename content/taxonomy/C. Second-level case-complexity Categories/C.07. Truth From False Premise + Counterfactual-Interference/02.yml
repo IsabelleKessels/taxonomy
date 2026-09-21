@@ -1,0 +1,12 @@
+name: "Counterfactually Gettiered by an Instrument"
+descriptions:
+  - |
+    In the @-world p is true, S reads a reliable instrument displaying “p~1~” and, based on the (explicit or implicit) premise that it’s reliable, S infers that p~1~. 
+
+    In modally close possible worlds, p~n~ would be true, but an interference would tamper with the instrument so it wouldn’t work reliably of its own accord anymore. However, the interference would also make the instrument display “p~n~.” S would read the instrument and form the true belief that p~n~, based on the false (explicit or implicit) premise that the instrument is reliable.
+comments: []
+tokens:
+  - |
+    Thermometer Demon: Unknown to Hanne, there is a demon who’s highly interested in what beliefs she forms about her child’s temperature. Hanne takes her child’s temperature with a reliable thermometer. It displays 97.9, which is true.
+
+    In modally close possible worlds, in which Hanne’s child would have a mild fever (say, it has a temperature of 100.5) and she would be about to measure its temperature, the demon would be upset. Out of anger, the demon would break the thermometer just before Hanne would pick it up. Yet, it would also make sure that the (now broken) thermometer would display the correct temperature anyway. 

@@ -1,0 +1,7 @@
+name: "Gettiered Attester"
+descriptions:
+  - "p is true, but attester R believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier]. R asserts that p, S believes that p based on this testimony. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R trustworthy."
+comments: []
+tokens:
+  - "Attested Stopped Clock: Everything is as in Russell’s (1948) Stopped Clock (see B.2., [Instrument Gettier]), but the gettiered person attests what time it is to another person S."
+  - "Cat on the Couch 3a: Stefan believes that the cat is now sitting on the couch because Klara tells him so, and she perceives a grey, fluffy shape on the couch. Unknown to Klara, the grey, fluffy shape she sees is not the cat, but a decorative pillow, however, the cat is sitting behind the pillow."

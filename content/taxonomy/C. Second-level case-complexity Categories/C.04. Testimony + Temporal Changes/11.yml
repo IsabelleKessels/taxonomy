@@ -1,0 +1,12 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Accepted Defeater Disappears"
+descriptions:
+  - |
+    At t~1~ p is true and a trustworthy and reliable attester, R, asserts that p. S doesn’t accept the testimony, doubting R’s trustworthiness based on
+
+    - [False Reasoning], or
+    - [False Testimony], [Testimony-Based False Implication] or [Unsuccessful Transmission] from another attester T. 
+
+    At t~2~ p is true. S has given up the belief that defeated R’s testimony at t~1~ and now believes that p based on remembering the testimony.
+comments: []
+tokens:
+  - "Cult Friends 2: As in Lackey’s (2008) Cult Friends 1 (see [Change of Basis for Belief: Ignored Defeater Disappears]), Nora has a defeater for trusting the testimony of atheists at t~1~, which she abandons at t~2~. In this version, however, this defeater prevents Nora from accepting Calvin’s testimony at t~1~ (that Hitler was raised a Christian): She dismisses it on the grounds that Calvin is an atheist. It is only at t~2~, when she remembers his testimony after giving up the belief that atheists are unreliable, that she forms the belief that Hitler was brought up Christian. "

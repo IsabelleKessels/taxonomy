@@ -1,0 +1,15 @@
+name: "Counterfactual Interference with Sensory Circumstance in non-p-Worlds"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment. 
+
+    In modally close possible worlds, there would be an interference to the effect that p would be false and causing S to believe that p based on [Sensory Hindrance].
+comments: 
+  - "Neta and Rohrbaugh (2004) intuit about Psychological Experiment: “It seems that in the actual case I know that the number of flashes is seven despite the envisaged possibility of my being wrong. And yet these possibilities are as similar in other respects as they would have to be for the experiment to be well designed and properly executed.” (400.)"
+  - |
+    Sosa (2007) doesn’t clearly state his own intuition about Kaleidoscope, but explores whether or not the case would be accounted for as knowledge based on different armchair-theoretical assumptions. At some point of that discussion, however, he states: “[W]e are strongly drawn to claim that although one’s belief is apt it is not knowledge. […] We thus implicitly suggest that he has knowledge of a sort, animal knowledge, while lacking knowledge of another sort, reflective knowledge.” (34f.) 
+    
+    It might be a bit of a stretch to account for an interference with the ambience light as an interference with the perception process; if this is controversial, the case-token could instead be grouped with B.4., [Counterfactual-Interference in Modally Close non-p-Worlds].
+tokens:
+  - "Neta and Rohrbaugh’s (2004) Psychological Experiment: “I am participating in a psychological experiment, in which I am to report the number of flashes I recall being shown. Before being shown the stimuli, I consume a glass of liquid at the request of the experimenter. Unbeknownst to either of us, I have been randomly assigned to the control group, and the glass contains ordinary orange juice. Other experimental groups receive juice mixed with one of a variety of chemicals which hinder the functioning of memory without a detectable phenomenological difference. I am shown seven flashes and judge, truly and knowingly, that I have been shown seven flashes. Had I been a member of one of the experimental groups to which I was almost assigned, I would have been shown only six flashes but still believed that I had been shown seven flashes due to the effects of the drug.” (400.) "
+  - "Sosa’s (2007) Kaleidoscope: “You see a surface that looks red in ostensibly normal conditions. But it is a kaleidoscope surface controlled by a jokester who also controls the ambient light, and might as easily have presented you with a red-light+white-surface combination as with the actual white-light+red-surface combination. Do you then know the surface you see to be red when he presents you with that good combination, despite the fact that, even more easily, he might have presented you with the bad combination?” (31.)"

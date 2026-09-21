@@ -1,0 +1,12 @@
+name: "Change of Basis for Belief: Unfriendly Environment to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    At t~2~ p is true, but S believes that p based on [Unsuitable Reason].
+comments: []
+tokens:
+  - |
+    Broken Thermometers 5: As in Goldman’s (1986) Broken Thermometers 1 (see B.3., [Unfriendly Instruments Environment]), “there are many thermometers in the parent’s medicine cabinet, and all but […] one […] are defective. All others would read 98.6 even if the child had a fever. Furthermore, the parent cannot tell which thermometer is which[.]” (45.) In the morning, Hanne takes her child’s temperature, coincidentally with the reliable thermometer. It displays 98.6, and Hanne comes to believe that her child doesn’t have a fever, which is true. 
+
+    The next morning, Hanne’s child is unusually fussy and looks flushed. Based on wishful thinking, and despite these potential signs that the child may have developed a fever, Hanne forms the belief that it doesn’t. As it so happens, this is true. Her child’s temperature is still 98.6.

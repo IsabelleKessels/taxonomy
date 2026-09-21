@@ -1,0 +1,6 @@
+name: "Insufficient Sensory Hindrance"
+descriptions:
+  - "Some factor influences S’s sensory organs or perceptual process such that S’s perception is corrupted. However, this is insufficient to prevent S forming the true belief that p based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment."
+comments: []
+tokens:
+  - "Flea Market 5: Lars visits a flea market. He has a sight condition which entails high sensitivity to glaring light. While looking through a stall’s merchandise he picks up a shirt. It’s a bright summer’s day and Lars has been outdoors for a while already, so by now his vision is somewhat impaired by eye strain and pains, however, not enough that he doesn’t realise that the shirt is a dupe."

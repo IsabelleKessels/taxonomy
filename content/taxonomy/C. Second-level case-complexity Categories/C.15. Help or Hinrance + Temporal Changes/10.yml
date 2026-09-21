@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Paradigmatic Knowledge to Hindrance"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. 
+
+    At t~2~ p is true, but S believes that non-p based on [Direct Cognitive Hindrance], [Indirect Cognitive Hindrance] or [Sensory Hindrance].
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk Demon 10: In the morning, Anna forms the true belief that there’s milk in the fridge, because she’s just put a half empty carton in there. Later that day, a malicious demon sets Anna into a state of believing that there’s no milk in the fridge, which is false."

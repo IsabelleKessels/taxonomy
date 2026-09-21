@@ -1,0 +1,7 @@
+name: "Sensory Hindrance Makes Attester Unreliable"
+descriptions:
+  - "Attester R is usually reliable and trustworthy. However, R forms a false belief that p based on [Sensory Hindrance]. R asserts that, and S forms the false belief that p based on R’s testimony."
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Celtic Chat 16: Normally, Luke is reliable when it comes to football facts, however, today he’s not wearing his glasses: Looking at the TV screen in the local supporter’s pub, he mistakes one of the players on the field for Cameron Carter-Vickers. He sends a text to Caitlin: “Cameron Carter-Vickers has recovered from his injury.” This is not true, it’s actually a different player who’s on the field. Caitlin accepts Luke’s testimony nonetheless."

@@ -1,0 +1,13 @@
+name: "Counterfactual-Interference with Sensory Circumstance in p-Worlds"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment.
+
+    In modally close possible worlds, p would be true, but an interference would cause S to believe that non-p based on [Sensory Hindrance].
+comments: 
+  - |
+    Shope (1983) intuits about Perceptual Experiment: “In this example, […] it is the merest accident that those who trust a measuring instrument reach a true belief by so doing. This Gettierized aspect of the social setting in the example seems to me to prevent *S* from knowing *p*[.]” (94.) 
+
+    I hold that, if we focus on S’s epistemic status, we can ignore the aspect of the case that the instrument, which the scientist uses to monitor whether the machine is switched on, is unreliable: We’re not concerned with the scientist’s epistemic status. 
+tokens:
+  - "Shope’s (1983) Perceptual Experiment: “*S* has volunteered for a scientific experiment, the nature of which has been concealed from her, save that it is harmless. *S* is now in what she takes to be a waiting room, seated upon an ordinary-looking chair, expecting the experiment to be conducted in another room. The chair is secretly connected to a machine that can, without being detected by the subject, randomly alter the subject’s perceptual capacities in numerous fashions, including having them be normal, or having *S* become temporarily red-green colorblind. A monitor displays to scientists in a separate room what alterations are made, and at the moment, although the scientists are justified in supposing that the monitor is working properly, it is not, and it would indicate that *S*’s perceptual capacities are normal […] no matter what the true setting of the machine. Looking at the monitor, the scientists accept *c*: ‘S is not red-green colorblind now.’ As luck would have it, the machine has switched itself to a setting where *c* happens to be true because it leaves *S*’s perceptual capacities unaffected. Simultaneously, *S* glances at another subject who has just entered her room and she believes on the basis of seeing his tie, *p*: ‘The tie is red.’” (94.) Assume, that in close possible worlds the machine would interfere with S’s vision, and S would form the belief ‘The tie is not red’ rather than withhold judgement."

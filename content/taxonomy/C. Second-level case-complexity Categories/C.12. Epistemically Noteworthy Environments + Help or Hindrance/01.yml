@@ -1,0 +1,6 @@
+name: "Sensory Help Exposes Unfriendly Environment"
+descriptions:
+  - "Some factor influences S’s sensory organs or perceptual process such that S’s perception is improved. Unknown to S, S is in an environment featuring misleading evidence in regards to p~1~ (or p-type propositions). By chance, S only encounters the non-misleading evidence and, based on this, forms the belief that p~1~, which is true. Given this evidence, S also would form the true belief that p~1~ if no [Sensory Help] would be administered. If S were confronted with the misleading evidence, the [Sensory Help] would enable S to recognise this and prevent S from forming a false belief."
+comments: []
+tokens:
+  - "Birdwatcher 8: Stefan is unaware that he has entered an area with many dunnocks and unusually few female house sparrows. Without binoculars, Stefan cannot distinguish the two types of small brown birds from one another. Given that he’s not expecting dunnocks in the area, he would mistake a dunnock for a female house sparrow. Yet, since he’s using binoculars to scan the area, he’s able to differentiate the birds from one another. The first small brown bird that Stefan spots is a female house sparrow, and he correctly identifies it as such. "

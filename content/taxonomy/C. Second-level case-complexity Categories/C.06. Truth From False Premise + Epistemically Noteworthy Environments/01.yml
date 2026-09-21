@@ -1,0 +1,11 @@
+name: "Almost Gettiered in Unfriendly Environment"
+descriptions:
+  - |
+    Unknown to S, S is in an environment featuring misleading evidence in regards to proposition q~1~ (or another q-type proposition, q~n~). By chance, S only perceives the non-misleading evidence and, based on this, forms the true belief that q~1~. Inferring from q~1~, S forms a (deductively, inductively, or abductively) entailed belief p. As it so happens, p is true.
+
+    Had S been confronted with the misleading evidence, S would have formed a false belief that q~n~, however, this also would have led S to infer that p.
+comments: 
+  - "Baumann (2014) doesn’t state his intuition on Singing, but it is implied he takes it to be an example of knowledge."
+tokens:
+  - "Baumann’s (2014) Singing: “I come to believe that Joe is singing in the other room. And I am right. However, it is usually Jack that does the singing around here and I cannot distinguish Jack’s from Joe’s voice. So, my belief that Joe is singing in the other room is true but lucky. However, if I infer from this that someone is singing in the other room, then the belief in that conclusion is not lucky.” (533.)"
+  - "Deduced Barn: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks at the genuine barn. In this version, however, after forming the true belief that’s a barn, he deduces that there is at least one barn in the area. Henry’s experience and reasoning process would be just the same, had he looked at one of the barn-façades, albeit, his belief would be based on a false premise."

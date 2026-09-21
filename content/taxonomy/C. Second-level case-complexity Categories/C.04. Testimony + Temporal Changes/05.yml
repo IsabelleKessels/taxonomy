@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief: Reinforcing Lack of Knowledge with False Testimony"
+descriptions:
+  - |
+    At t~1~ p is false, but S believes that p based on [Misperception], [Misremembering] and/or [False Reasoning].
+
+    At t~2~ p is false, and S receives testimony that p by attester R. Now S believes that p on the basis S had at t~1~ *and* [False Testimony].
+comments: 
+  - "Since S gains a false belief at t2 in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk in the Fridge 17: Looking into the fridge, Anna sees no milk carton, so believes that there’s none left. She doesn’t realise that her flatmate hid the milk behind some food containers. Later, Anna’s flatmate comes into the kitchen. Anna asks him whether there’s any milk, and he falsely attests that there isn’t."

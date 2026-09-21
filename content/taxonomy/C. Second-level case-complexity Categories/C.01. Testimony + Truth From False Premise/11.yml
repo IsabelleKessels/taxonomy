@@ -1,0 +1,13 @@
+name: "Testimony-Based Knowledge From False Implication"
+descriptions:
+  - |
+    A trustworthy and reliable attester, R, asserts that r: r is true. An assertion that r could reasonably be taken to imply that q is true; this implication isn’t, however, intended by R. S takes R’s testimony to imply that q. S therefore forms the belief q. q is false. 
+  
+    Both r and q, if true, (deductively, inductively, or abductively) entail that p. S forms the entailed belief p based on the false belief that q. p is true.
+  
+    The truthful attestation of r is interdependent on the presence of the misleading evidence for q as well as the truth of p: In modally close worlds where p is false, R wouldn’t attest that q and S wouldn’t infer that q, and also wouldn’t come to belief that p.
+comments:
+  - "Warfield (2005) intuits about Flight to Fayetteville: “Kim knows his conclusion[.]” (407.) And about President in Utah: “I know my conclusion[.]” (408.)"
+tokens:
+  - "Warfield’s (2005) Flight to Fayetteville: “With hopes of getting him to attend a party in Providence on Saturday night, Jaegwon Kim asks Christopher Hill what he’s doing on Saturday. Hill replies ‘I’m flying to Fayetteville on Saturday night’ and the conversation ends. Kim, recalling that Hill taught for many years in Fayetteville, Arkansas, reasons as follows: ‘Hill will be in Arkansas on Saturday night; so, he won’t be at my party Saturday night’ […] his premise is false: Hill is flying to Fayetteville, *North Carolina*.” (407.)"
+  - "Warfield’s (2005) President in Utah: “CNN breaks in with a live report. The headline is ‘The President is speaking now to supporters in Utah’. I reason: ‘The President is in Utah; therefore he is not attending today’s NATO talks in Brussels’ […] my premise is false: the President is in Nevada – he is speaking at a ‘border rally’ at the border of those two states and the speaking platform on which he is standing is in Nevada. The crowd listening to the speech is in Utah.” (408.) "

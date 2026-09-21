@@ -1,0 +1,15 @@
+name: ""
+descriptions:
+  - |
+    In the @-world p is true, but S believes that p based on [Indirect Cognitive Help]. 
+
+    In modally close possible worlds, p would be true and there would be an interference preventing the administering of [Indirect Cognitive Help]. S would form a false belief that non-p based on
+
+    - [Indirect Cognitive Hindrance], or 
+    - [Misperception], [Misremembering] and/or [False Reasoning].
+comments: []
+tokens:
+  - |
+    Counterfactually Distracted: Mara is a student with ADHD, and as part of the reasonable adjustments for exams, she gets to write tests in a small, quiet room rather than with hundreds of students in the lecture hall. During a biology test, she’s presented with several pictures and tasked with identifying the one showing a cell in the metaphase of mitosis. Everything is quiet, and since she’s able to concentrate, Mara correctly identifies the solution.
+
+    In close possible worlds, a protest would take place just outside the room where Mara would take her test (say, the organisers would have made a spontaneous change to where the protest would be held). The noise of the protest would distract Mara. She’d make a reasoning mistake and take the signs of a cell being the anaphase for the ones of the cell being in the metaphase and would give a false answer.

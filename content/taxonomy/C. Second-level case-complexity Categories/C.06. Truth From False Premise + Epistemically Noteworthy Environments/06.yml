@@ -1,0 +1,7 @@
+name: "Gettiered by Accommodating Environment for Consulting Broken Instruments"
+descriptions:
+  - "S is in an environment that features a regularity: Whenever S forms a belief in a p-type proposition based on reading a broken instrument, an interference takes place, making the p-type proposition in question true. S is unaware of this regularity. S forms the belief that p~1~ based on the false (explicit or implicit) premise that the instrument is working normally. The interference takes place and makes p~1~ true."
+comments: 
+  - "Pritchard (2009) intuits about Temp: “Clearly Temp cannot gain knowledge of the temperature of the room by consulting a broken thermometer.” (49.) Grundmann (2020) supports: “If we take the case as it stands, then the intuition that Temp does not know the temperature of the room is irresistible.” (5180.)"
+tokens:
+  - "Pritchard’s (2009) Temp: “Temp’s job is to keep a record of the temperature in the room that he is in. He does this by consulting a thermometer on the wall. As it happens, this way of forming his beliefs about the temperature in the room will always result in a true belief. The reason for this, however, is not because the thermometer is working properly, since in fact it isn’t − it is fluctuating randomly within a given range. Crucially, however, there is someone hidden in the room next to the thermostat who, unbeknownst to Temp, makes sure that every time Temp consults the thermometer the temperature in the room is adjusted so that it corresponds to the reading on the thermometer.” (49.)"

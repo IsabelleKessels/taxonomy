@@ -1,0 +1,9 @@
+name: "Instrument Counterfactual-Interference in Modally Close p-Worlds"
+descriptions:
+  - |
+    In the @-world p1 is true, S reads a reliable instrument displaying “p~1~” and infers that p~1~.
+
+    In modally close possible worlds, p~1~ would be true, but an interference would tamper with the instrument so that it would display “non-p~1~” (or another p-type proposition, “p~n~,” where p~n~ would be false). S would read the instrument and form the false belief that non-p~1~ (or p~n~).
+comments: []
+tokens:
+  - "Demon Clock 2: As in Kelp’s (2009) Demon Clock (see [Instrument Counterfactual-Interference in Modally Close non-p-Worlds]), Russell has an evil demon as his archnemeses, and the demon wants Russell to form false beliefs about what time it is under certain conditions: It makes a coin toss and if it comes up tails, the demon will ensure that the next belief Russell forms based on reading the grandfather clock in his hallway is false. The “evil-demon […] can set the clock to 8:22 [or any other time; IK] with his invisible hand a second before Russell looks at it.” (27). As it so happens, the demon’s coin toss lands on heads. “Russell does come down the stairs at 8:22. Russell’s arch-nemesis remains inactive. Russell forms a belief that it’s 8:22. It is 8:22. The grandfather clock is working reliably as always.” (27.) Had the coin toss landed on tails, the demon would have set the clock to read 8:20, and Russell would have gained a false belief that it’s 8:20."

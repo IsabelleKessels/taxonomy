@@ -1,0 +1,13 @@
+name: "Change of Truth Value & Basis for Belief: Unfriendly Environment to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    At t~2~ p is false, but S believes that p based on [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment.
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - |
+    Fake Barns Over Time 5: The council of the local farmer’s association in Fake Barn County decided that several of the remaining genuine barns in the area should be turned into barn-façades over the coming weeks, so there is ongoing construction work. As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is driving through Fake Barn County and looks out of his car window and forms the belief that he’s seeing a barn. At this point, construction work on several structures a few miles away has been completed; they have been turned into façades. The construction crew hasn’t yet reached the barn that Henry passes, though, so his belief is true.
+
+    Later that week, Henry is reflecting on his journey when someone asks him which route he took. He thinks of all the landmarks he passed and remembers the spot with the barn at the side of the road. Assuming that nothing interfered with the barn, Henry forms the belief that there’s a barn at that spot. Unknown to him, the belief is false: The construction crew has since finished their work on the structure and it is now a mere barn-façade. 

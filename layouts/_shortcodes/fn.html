@@ -1,0 +1,4 @@
+{{- $id := .Get 0 | string -}}
+{{- $val := .Get 1 -}}
+{{- .Page.Store.SetInMap "fn" $id $val -}}
+<sup id="fnref:{{ $id }}"><a href="#fn:{{ $id }}" class="footnote-ref" role="doc-noteref">{{ $id }}</a></sup>

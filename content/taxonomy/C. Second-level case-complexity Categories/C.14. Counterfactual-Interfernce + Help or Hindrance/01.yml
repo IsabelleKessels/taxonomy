@@ -1,0 +1,15 @@
+name: "Counterfactual Direct Interference with Cognitive States in non-p-Words"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    In modally close possible worlds, there would be an interference to the effect that p would be false and causing S to believe that p based on [Direct Cognitive Hindrance].
+comments: 
+  - |
+    Zagzebski (2001) intuits about Wine Tasting 1: “She knows she is tasting a ’94 Margaux.” (148.)
+
+    I classify Zagzebski’s (2001) case as involving [Cognitive Hindrance] because it stipulates that the device is installed ‘in the agents head’, which to me sounds like tampering with cognitive rather than sensory processes; however, the claim that there is an ‘interference with the tasting sensations’ would suggest [Sensory Hindrance].
+  - "Broncano-Berrocal (2014) intuits about Counterfactual Matrix 1: “Intuitively, Neo knows that he is holding a stone in his hand[.]” (71.)"
+tokens:
+  - "Zagzebski’s (2001) Wine Tasting 1: “Suppose that Jones is very good at identifying vintages of Bordeaux. In particular, she has no trouble distinguishing a ’94 Chateaux Margaux from very similar wines. Black knows that Jones is going to be tasting different vintages of Margaux without knowing in advance the year of the vintage she is tasting. He has installed a device in her head that can make Jones believe that the next wine she tastes is a ’94 Margaux whether it is or not. […] When Jones tastes the next wine, if she appears about to judge that it is a ’94 Margaux, the device does nothing. But if Jones is about to judge that it is anything else, the device will interfere with her tasting sensations and will lead her to think it is a ’94 Margaux. Now suppose that she tastes a ’94 anyway and believes it is a ’94, and Black’s device does nothing but monitor what is going on in Jones’s nervous system. Jones’s tasting faculties and taste memory are working fine and she comes to have a true belief in the normal way.” (148.)"
+  - "Broncano-Berrocal’s (2014) Counterfactual Matrix 1: “Robots dominate the Earth. They hunt humans to use them as sources of bioelectrical and thermal energy. For that task, they use a special pistol that shoots a microchip to the human’s head in such a way that it automatically connects her to a simulated reality called the Matrix. Humans do not even notice the change. Unbeknownst to Neo, he has just entered an area full of robots. Robots start shooting microchips to his head but for very improbable reasons they miss. In the meantime, Neo has picked up a stone and has formed the belief that he is holding a stone in his hand. If he had been hit, he would have dropped the stone and he would still have believed (in the Matrix) that he is holding a stone in his hand.” (70f.)"

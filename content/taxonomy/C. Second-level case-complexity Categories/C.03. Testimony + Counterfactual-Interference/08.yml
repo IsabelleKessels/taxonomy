@@ -1,0 +1,17 @@
+name: "Proposition Dependent Counterfactually False Testimony"
+descriptions:
+  - |
+    In the @-world S asks R whether p; p is true and attester R asserts that p. S forms the belief that p based on R’s testimony.
+
+    In modally close possible worlds, S would ask R whether q, but R would attest that non-q to S, which is false. S would not recognise this as a lie and would falsely believe that non q.
+comments: 
+  - |
+    I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but I suspect that these factors constitute a relevant difference and require the formulation of [sub types]: 
+
+    - is it equally socially acceptable for S to ask R whether q as it is to ask R whether p;
+    - does R have the same level of expertise on whether q as on whether p?
+
+    If q and p are (roughly) equal in these regards, R’s disposition to lie about one of the propositions seems to make them an untrustworthy attester in the given context and I’d intuit that S doesn’t gain knowledge. If pronounced differences exist (like in Job Interview 2), R might count as trustworthy regarding p and S intuitively gains knowledge that p.
+tokens:
+  - "Job Interview 1: Stan is interviewing Reese and asks her whether she has experience in the relevant field, and Reese answers truthfully. In possible worlds where Stan would ask whether Reese has the required Spanish skills, she would untruthfully claim that she does."
+  - "Job Interview 2: Stan is interviewing Reese and asks her whether she has experience in the relevant field, and Reese answers truthfully. In possible worlds where Stan would ask whether Reese planned to start a family in the near future, Reese would untruthfully claim that she does not. Stan’s question would overstep legal boundaries."

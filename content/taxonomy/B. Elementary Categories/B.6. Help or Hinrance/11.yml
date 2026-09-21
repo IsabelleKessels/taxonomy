@@ -1,0 +1,7 @@
+name: "Sensory Hindrance"
+descriptions:
+  - "Some factor influences S’s sensory organs or perceptual process such that S’s perception is corrupted. This leads to S forming the false belief that p based on [Misperception] and/or [False Reasoning] relating to what S perceives in the moment."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Flea Market 4: Lars visits a flea market. He has a sight condition which entails high sensitivity to glaring light. It’s a bright summer’s day and Lars has been outdoors for a while already, so by now his vision is somewhat impaired by eye strain and pains. While looking through a stall’s merchandise he picks up a shirt, believing that it’s a shirt from a reputable brand. What Lars doesn’t realise is that the stall is selling blatant dupes of popular brands which would be obvious forgeries to most customers. The shirt Lars picked up is a dupe."

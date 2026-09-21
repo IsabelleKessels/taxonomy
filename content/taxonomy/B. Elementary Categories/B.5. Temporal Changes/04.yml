@@ -1,0 +1,25 @@
+name: "Change of Basis for Belief: Paradigmatic Lack of Knowledge to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    [version #1] At t~1~ p is true, but S believes that p based on [Unsuitable Reason].
+
+    At t~2~ p is true, but S believes that p based on a different instance of [Unsuitable Reason] than at t~1~.
+
+  - |
+    [version #2] At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+
+    At t~2~ p is true, but S believes that non-p based on a different instance of [Misperception], [Misremembering] and/or [False Reasoning] than at t~1~.
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of version #2 of this [type], I will presume it’s uncontroversial that S *lacks knowledge* in version #2. X-phi results confirm this:"
+  - |
+    To make Wandering Squirrel Control 2 conform with the [case-type], p must include a negation:
+
+    p = “There is no red speckled ground squirrel in Zone 3.”; non p = “It’s *not* the case that there is no red speckled ground squirrel in Zone 3.” = “There is at least one red speckled ground squirrel in Zone 3.”
+
+    Turri et al. (2015) investigated Wandering Squirrel Control 2 in their x-phi study and report that it “was overwhelmingly viewed as a case of ignorance, with rates of knowledge attribution falling far below chance, binomial, p < .001, test proportion = .5” (384). This vignette serves as the control for their Wandering Squirrel 2, subsumed under C.8., [Change of Basis for Belief: Persistent Backup Truth-Maker – Paradigmatic Knowledge to Gettiered]. The present token avoids the complicating factor of {{< sc >}}Truth From False Premise{{< /sc >}}. The experiment had a large sample size of n = 576 split across three conditions with 18 participants excluded after failing comprehension tasks and 6 excluded for having partaken in previous studies (383).
+
+    In the formulation of Wandering Squirrel Control 2, it is not exactly clear, whether the binoculars are central to Darrel seeing the squirrel – I assume they are not. If they were, the belief at t1 would count as based on [Insufficient Sensory Help] and the case would need to be grouped with a second-level complexity {{< sc >}}Category{{< /sc >}} which additionally involves {{< sc >}}Help or Hindrance{{< /sc >}}.
+tokens:
+  - "Turri et al.’s Wandering Squirrel Control 2 (2015): “Darrel is an ecologist collecting data on red speckled ground squirrels in Canyon Falls national park. The park is divided into ten zones and today Darrel is working in Zone 3. ¶ While scanning the river valley with his binoculars, Darrel sees a bushy-tailed creature with distinctive red markings on its chest and belly. The red speckled ground squirrel is the only native species with such markings. Soon Darrel packs up his gear and hikes back to base camp. ¶ When Darrel returns to camp, his colleague says, ‘A reporter is going to do a story on local wildlife and she needs some video footage of a red speckled ground squirrel. Are there any in Zone 3?’ Darrel replies, ‘Yes, there is at least one red speckled ground squirrel in Zone 3.’ […] The animal Darrel saw in the river valley is actually a non-native prairie dog, recently abandoned by campers. But while Darrel was hiking back to camp, that prairie dog migrated out of Zone 3 and never returned. Moreover, another prairie dog, which Darrel never saw, was also released by campers in Zone 3 in that same river valley where Darrel was. So there is not a red speckled ground squirrel in Zone 3 after all.” (Suppl.) (This token conforms to [version #2].)"
+  - "Milk in the Fridge 4: Wondering whether there’s milk in the fridge, Anna makes a bet with herself: If her coin toss lands on heads, she’ll believe that there *is* milk in the fridge. Her coin lands on heads and she forms this belief. While preparing a coffee she intends to drink with milk, she starts to believe that there’s milk in the fridge based on wishful thinking rather than the outcome of her coin toss. (This token conforms to [version #1].)"
+  - "Milk in the Fridge 5: Upon waking, Anna forms the false belief that there’s no milk in the fridge, because she misremembers finishing the carton yesterday night. In fact, half a carton remains. Entering the kitchen, Anna looks into the fridge and sees no milk carton there, and comes to believe that there’s still no milk in the fridge. In fact, there is milk in the fridge, it is hidden behind some food containers obstructing her view. (This token conforms to [version #2].)"

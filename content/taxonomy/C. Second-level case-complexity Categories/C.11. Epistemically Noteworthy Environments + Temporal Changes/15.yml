@@ -1,0 +1,12 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Unfriendly Environment to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    At t~2~ p is false, but S believes that non-p based on [Unsuitable Reason].
+comments: []
+tokens:
+  - |
+    Broken Thermometers 11: As in Goldman’s (1986) Broken Thermometers 1 (see B.3., [Unfriendly Instruments Environment]), “there are many thermometers in the parent’s medicine cabinet, and all but […] one […] are defective. All others would read 98.6 even if the child had a fever. Furthermore, the parent cannot tell which thermometer is which[.]” (45.) Hanne takes her child’s temperature, coincidentally with the reliable thermometer. It displays 100.5, and Hanne comes to believe that her child has a fever, which is true.
+ 
+    The next morning, Hanne’s child is still unusually fussy and looks flushed. Despite these potential signs that the child may still have a fever, based on wishful thinking, Hanne forms the belief that it broke the fever. As it so happens, this is true. Her child’s temperature has lowered to 98.6.

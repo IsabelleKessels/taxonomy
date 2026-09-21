@@ -1,0 +1,9 @@
+name: "Change of Truth Value & Basis for Belief: Paradigmatic Lack of Knowledge to Paradigmatic Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment.
+
+    At t~2~ p is false and S believes that non-p based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment.
+comments: []
+tokens:
+  - "Milk in the Fridge 13: Upon waking, Anna forms the false belief that there’s no milk in the fridge, because she misremembers finishing the carton yesterday night. In fact, half a carton remains. Entering the kitchen an hour later, she looks into the fridge and sees no milk carton, so retains the belief that there is no milk in the fridge. Her flatmate finished the last bit of milk with his breakfast half an hour ago, so her belief is true."

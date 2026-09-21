@@ -1,0 +1,12 @@
+name: "Change of Basis for Belief & Doxastic Attitude: False Testimony Exposed"
+descriptions:
+  - |
+    At t~1~ p is true, but an attester R asserts to S that non-p. S believes non-p based on this [False Testimony]. 
+
+    At t~2~ p is true and S abandons the belief that non-p based on R’s testimony and forms the belief that p based on
+
+    - Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or
+    - [Successful Testimony] by another attester T.
+comments: []
+tokens:
+  - "Celtic Chat 6: Luke asserts “Celtic are playing tonight” to Caitlin. For some reason Luke is mistaken and Celtic are not playing tonight, Caitlin nonetheless initially believes his testimony. Later that evening, however, she goes to the local supporter’s pub and it’s not showing a Celtic game. Caitlin realises that Luke was mistaken."

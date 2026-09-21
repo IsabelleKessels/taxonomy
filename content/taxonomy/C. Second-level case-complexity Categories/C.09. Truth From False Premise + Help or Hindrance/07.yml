@@ -1,0 +1,9 @@
+name: "Insufficient Sensory Help False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Insufficient Sensory Help]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the insufficient help: In some modally close worlds q would be false and S would believe that q based on [Insufficient Sensory Help], and believe p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Birdwatcher 6: Stefan is watching birds in the garden. He spots a small brown bird. Using binoculars to get a better look, he comes to the false belief that the bird is a dunnock and he infers that there’s a dunnock in his garden. The bird he is looking at actually is a female house sparrow. It’s too far away for Stefan to realise that it doesn’t have the characteristic thin and pointy beak. As it so happens, his belief is true anyway because there is a dunnock in a different part of his garden."

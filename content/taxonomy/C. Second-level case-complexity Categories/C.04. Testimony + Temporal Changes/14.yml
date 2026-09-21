@@ -1,0 +1,17 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Truth Value Changes but Receiver’s Belief Remains True"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on
+
+    - [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment, or
+    - [Successful Testimony] by attester R.
+    
+    At t~2~ p is false. S abandons the belief that p, assuming its truth value to have changed. Now S believes that non-p based on a different instance of
+
+    - [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment, or
+    - [Successful Testimony] by attesters T or R.
+    
+    The belief at t~1~, the belief at t~2~, or both involve testimony.
+comments: []
+tokens:
+  - "Milk in the Fridge 22: After breakfast, Anna puts a half empty milk carton in her fridge and (based on her accurate perception) believes there is now milk in the fridge. Returning from work in the evening, her flatmate informs Anna: “I finished the milk. I’ll buy more tomorrow.” Anna forms the belief that there’s no milk in the fridge, and this is true."

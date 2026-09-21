@@ -1,0 +1,8 @@
+name: "Testimony-Based False Implication"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that q: q is true. An assertion that q could reasonably be taken to imply that p is true; this implication isn’t, however, intended by R. S takes R’s testimony to imply that p. S therefore forms the belief p. p is false."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Classmates 2: Josef and Johanna are classmates receiving their biology exam results. Upon Johanna asking Josef how he feels about his grade, he replies: “I’m happy with it.” Since biology is one of Josef’s favourite subjects, Johanna takes this to imply that Josef passed with an A. This isn’t true, Josef in fact got a B. Josef, however, had begun to get a headache halfway through the exam which affected his concentration, and had thus expected to get a much worse grade. He was pleasantly surprised he did not."
+  - "Celtic Chat 4: Luke asserts “Celtic are playing tonight” to Caitlin. Luke is right, that Celtic play tonight but Caitlin misunderstands Luke’s remark to be about the basketball team the Boston Celtics, rather than the football team Glasgow Celtic. The football team does have a match that evening, but the basketball team doesn’t. Caitlin thus forms a false belief about the basketball team based on Luke’s testimony."

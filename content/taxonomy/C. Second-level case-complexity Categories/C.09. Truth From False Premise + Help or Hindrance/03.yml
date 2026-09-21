@@ -1,0 +1,17 @@
+name: "Sensory Hindrance Direct Gettier"
+descriptions:
+  - |
+    Some factor influences S’s sensory organs or perceptual process such that S’s perception is corrupted. This leads to S misperceiving some specific detail so that it seems to S that q was true, even though q is false. However, S doesn’t form the belief that q. Instead, S forms a more general belief p, that is entailed by q. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the presence of the factor influencing S’s sensory organs or perceptual process: In some modally close worlds where q would be false and the factor would be present, S would have the same misperception and would form the belief p based on this, but no backup truth-maker would be present, so p would be false.
+comments: 
+  - |
+    Chisholm (1966/1989) intuits about Meinong’s Harp 1: “But it hardly would be true to say that he thereby *knew* that the harp was then sounding.” (92.) 
+
+    My interpretation of this case is that, since the person is *hard of hearing*, they *don’t actually perceive the sound* of the Aeolian harp, even though it is sounding. What the person experiences is an auditory hallucination. 
+    
+    p = “The Aeolian harp was sounding.”; 
+    
+    q = “The sound I perceived was that of the Aeolian harp.”
+tokens:
+  - "Meinong’s Harp 1 as presented by Chisholm (1966/1989): “A. Meinong in 1906, […] considers an Austrian garden where there is an Aeolian harp made to whistle in the wind and thereby keep the birds away. ‘Assume now,’ he says, ‘that someone who has lived in the vicinity of such an apparatus has become hard of hearing in the course of time and has developed a tendency to have auditory hallucinations. It could easily happen that he hallucinates the familiar sounds of the Aeolian harp at the very moment at which these sounds are actually to be heard.’ If this were to happen, then, given the theory of perception set forth in the present work, one might say that the man had a true and evident belief to the effect that the harp was then sounding.” (92.)"

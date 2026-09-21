@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief: Paradigmatic Lack of Knowledge to Paradigmatic Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unsuitable Reason].
+
+    At t~2~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+comments: []
+tokens:
+  - "Milk in the Fridge 3: Upon waking, Anna believes that there’s milk in the fridge based on wishful thinking. A little later, Anna prepares coffee and, on opening the fridge, sees that there is indeed a fresh carton of milk. She now bases her belief that there’s milk in the fridge on her visual perception."

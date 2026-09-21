@@ -1,0 +1,12 @@
+name: "Counterfactually Gettiered"
+descriptions:
+  - |
+    In the @-world q~1~ is true and another q-type proposition, q~n~, is false. S believes that q~1~ based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment. Inferring from q~1~, S forms a (deductively, inductively, or abductively) entailed belief p. 
+
+    In modally close possible worlds, there would be an interference to the effect that q~1~ would be false, whereas q~n~ would be true. Moreover, the interference would have the effect that S’s evidence supporting q~1~ would be indistinguishable (for S) from that in @ word, so that S would falsely believe that q~1~. Based on the false premise that q~1~, S would form a (deductively, inductively, abductively) entailed belief p. However, q~n~ also entails that p and, thus, p would be true.
+comments: []
+tokens:
+  - |
+    Inferred Volcano: As in Dretske’s (1971) Backup Volcano (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds]), geologist S inspects an area and forms the belief that “nearby mountain [M] […] erupted many years ago” (4). “The geology of the area is such that at the point in time at which M erupted something, so to speak, was bound to give; if M had not erupted, N would have. Furthermore, the location of N is such that if it, rather than M, had erupted, the present distribution of lava would have been, in all respects relevant to S’s taking it as a reason for believing M erupted, the same.” (5.) In this version, S forms the inferred belief that some mountain in the area erupted many years ago, based on her belief about M. 
+
+    In the possible worlds in which it would have been N, rather than M, that had erupted, S would form the same true belief that some mountain erupted in the area many years ago. However, this belief would be based on the – in these possible worlds – false premise that the mountain in question was M.

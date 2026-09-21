@@ -1,0 +1,6 @@
+name: "Unsuitable Reasoning After Indirect Cognitive Hindrance"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it decreases S’s reliability when forming beliefs about whether p by perception, memory or reasoning (e.g., by making S less attentive / alert). S realises that something is amiss with S’s usual belief formation process in regards to whether p. p is true, but S forms the belief that p based on [Unsuitable Reason]."
+comments: []
+tokens:
+  - "Flea Market 3: Lars visits a flea market. He dislikes crowds and, as the market is very busy, gets rather nervous and distracted and he’s aware that this has a bearing on his cognitive processing. While looking through a stall’s merchandise he picks up a shirt. Due to his decreased attention, he’s unable to discern whether it’s a shirt from a reputable brand or a dupe, but takes a wild guess and forms the belief that it’s a dupe. Lars is correct. In fact, it’s a quite blatant dupe. In a calmer setting, and when less distracted, Lars would have perceived the tell-tale signs and formed this belief based on (accurate) perception and reasoning."

@@ -1,0 +1,17 @@
+name: "Gettiered Attester Gets Silent Approval"
+descriptions:
+  - |
+    p is true, but attester R believes p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier]. R asserts that p to S, in the presence of agent T. T is a reliable and trustworthy agent who believes that p based on
+    
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or
+    - [Successful Testimony] by a fourth attester (U).
+  
+    T silently approves of R’s testimony. If T had counter-evidence for p, T would have interjected. S believes that p based on the combination of R’s testimony and T’s silent approval. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R or T trustworthy, or T reliable regarding p.
+    
+    The backup truth-maker is independent of the presence of misleading evidence for q: In some modally close worlds q would be false and R would come to believe that p based on the false belief that q, but no backup truth-maker would be present, so p would be false. However, in these worlds, attester T would correct R, so S wouldn’t gain a false belief that p.
+comments:
+  - "These case-tokens are an adaptations of Goldberg’s (2005) Unreliable Milk Dumper, subsumed under C.3., [Silent Approval of Counterfactual-Interference Affecting the Attester]. The present tokens avoid the complicating factor of {{< sc >}}Counterfactual-Interference{{< /sc >}} in favour of involving {{< sc >}}Truth From False Premise{{< /sc >}}."
+  - "I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but I suspect evaluation-behaviour may vary based on whether or not p is actionable information for S without the relevant information T possesses, and whether T is aware of this. I personally would tend to ascribe S knowledge in a case-token like Hidden Milk Shopping List, where p represents actionable information for S; and more hesitant to ascribe knowledge in Hidden Milk. If my intuitions are representative, [sub-types] may need to be identified."
+tokens:
+  - "Hidden Milk: Frank’s flatmate never buys new milk and always leaves the empty carton in the fridge. Frank has recently bought milk and hidden it at the back of the fridge to prevent his flatmate finding it. Frank has Mary and Sonny over as breakfast guests, Mary goes to the fridge and takes out some orange juice, sees a milk carton and falsely assumes that it’s not empty. Mary infers that there is milk in the fridge and attests this to Sonny, who always has milk with his breakfast. Frank witnesses Mary’s attestation and realises that Mary probably based it on seeing the empty carton. But since the claim that there is milk in the fridge is correct, Frank doesn’t interject. "
+  - "Hidden Milk Shopping List: Same set-up as Hidden Milk, but in this version, Mary attests that there’s milk in the fridge to Sonny because they are writing a shopping list for the dinner that Frank will cook later, and Mary is checking whether milk would need to be put on the list. Frank will need milk to make béchamel sauce, but he knows where the milk is. For Sonny, it’s irrelevant where exactly the milk is, he won’t do the cooking, merely the shopping."

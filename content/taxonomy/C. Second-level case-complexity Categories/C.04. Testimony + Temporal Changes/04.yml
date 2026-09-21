@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief: Ignored Defeater Disappears"
+descriptions:
+  - |
+    At t~1~ a trustworthy and reliable attester, R, asserts that p: p is true and S accepts the testimony. However, S also has a defeating belief q, which would imply that R’s testimony can’t be trusted. S believes q based on
+
+    - [Misperception], [Misremembering] and/or [False Reasoning], or
+    - [False Testimony], [Testimony-Based False Implication] or [Unsuccessful Transmission] from a third attester T.
+
+    At t~2~ p is true. S has given up the belief q. S continues to believe that p based on remembering R’s testimony at t~1~.
+comments: 
+  - "Lackey (2008) intuits about Cult Friends: “Nora rationally believes, justifiedly believes, and knows at T2 that Hitler was raised a Christian without rationally believing, justifiedly believing, or knowing this proposition when it was originally acquired at T1.” (259.)"
+tokens:
+  - "Lackey’s (2008) Cult Friend 1: “Nora was a very careful and epistemically reliable recipient of testimony, with one notable exception: she was overly susceptible to peer-pressure from two other friends who belonged to a religious cult. […] [S]he eventually became convinced that the testimony of atheists is nearly completely unreliable. During this time, Nora had several conversations with Calvin, a fellow student in one of her classes who, as a matter of fact, was an extremely reliable source of information and whom she had every reason to believe was both competent and sincere with respect to his reports. Yet Nora also knew that Calvin was an atheist, and so she believed him to be a highly unreliable epistemic source. One day after class, they were discussing World War II and Calvin told Nora, much to her surprise, that Hitler was raised a Christian. Being momentarily caught off guard, Nora found herself believing this proposition on the basis of Calvin’s epistemically flawless testimony. Now, several years [later] […], Nora is no longer in touch with her friends who were members of the religious cult and she has ceased believing that the majority of the testimony offered by atheists is highly unreliable – such a belief has simply faded from her memory. At the same time, however, she still believes on the basis of memory dating back solely to Calvin’s testimony that Hitler was raised a Christian.” (257f.)"

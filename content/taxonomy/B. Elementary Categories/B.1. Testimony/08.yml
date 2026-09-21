@@ -1,0 +1,12 @@
+name: "Irrational Receiver"
+descriptions:
+  - "Attester R asserts that p, p is true and S believes that p based on this testimony. S’s judgement that R can be trusted, however, is based on [Unsuitable Reason] (e.g., wishful thinking, superstition, a disposition to be overly uncritical in regards to R’s testimony, general gullibility, etc.)."
+comments:
+  - "Haze (2015) intuits about Oracle vs. Lawyer: “In this case, it seems to me, I do not know that p: my belief rests on a delusion, albeit a counterfactually robust one.” (310.)"
+  - "Lackey (2008) intuits about Compulsively Trusting: “Bill’s belief that there was an orca whale in the relevant body of water is *evidentially insensitive* in a way that is clearly incompatible with justification, warrant, and knowledge.” (67.)"
+tokens:
+  - "Haze’s (2015) Oracle vs. Lawyer: “I have a deep-seated, counterfactually robust delusional belief that my neighbour is a divine oracle. He is actually a very reliable and truthful tax-lawyer. There is a point about tax law he has always wanted to tell me, p. One day, he tells me that p, and I believe him, because I believe he is a divine oracle. I would never believe him if I knew he was a lawyer, being very distrustful of lawyers.” (310.)0"
+  - |
+    Lackey’s (2008) Compulsively Trusting: “Bill is a compulsively trusting person with respect to the testimony of his neighbor, […] [E]ven when he has available to him overwhelming evidence for believing that she is deliberately lying or being deceitful, Bill cannot come to believe this about Jill. Indeed, Bill is such that there is no amount of evidence that would convince him to not trust Jill. Yesterday, […] Bill ran into Jill, and she told him that she had seen an orca whale while boating earlier that day. Bill, of course, readily accepted Jill’s testimony. It turns out that Jill did in fact see an orca whale on the boat trip in question, that she is very reliable with respect to her epistemic practices, both in general and in this particular instance, and that Bill has no reason to doubt the proffered testimony.” (66.)
+
+    See also Lackey’s (2008) Compulsively Good Natured (160), or Compulsively Paranoid (161).

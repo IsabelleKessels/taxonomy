@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief: Paradigmatic Knowledge to Unfriendly Environment"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    At t~2~ p is true and S believes that p based on remembering the evidence S had at t~1~ alongside the true premise that nothing has interfered which might falsify p between t~1~ and t~2~, but also based on [Unfriendly Environment] or [Unfriendly Instruments Environment]. 
+comments: 
+  - "This [type] resembles Harman’s (1973) Unopened Letters, Horvath & Wiegmann’s (2016) CEO’s Painting and Lehrer & Paxson’s (1969) Tom Grabit (see D., [Change of Basis for Belief: Paradigmatic Knowledge to Unfriendly Environment for Accepting Testimony]), but it avoids the additional complication of involving {{< sc >}}Testimony{{< /sc >}}."
+tokens:
+  - |
+    Fake Barns Over Time 1: Henry is on a car journey which leads him through a rural area. He looks out of the window and sees a structure that looks like a barn and forms the true belief that this is a barn. At that point in time, all barn-like structures in the area are genuine barns. There is nothing unusual about his environment.
+    
+    Three months later, he takes the same journey and passes the same barn. He, again, forms a true belief that what he sees is a barn. Yet, Henry is unaware that, two months ago, the local farmer’s association decided that several of the barns in the area should be turned into barn-façades over the coming weeks. This construction work has since been finished and the area was re-named ‘Fake Barn County.’ As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), the structure Henry looks at is one of the only genuine barns that remain in the area.

@@ -1,0 +1,15 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Paradigmatic Lack of Knowledge to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    [version #1] At t~1~ p is true, but S believes that p based on [Unsuitable Reason].
+
+    At t~2~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+  - |
+    [version #2] At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+
+    At t~2~ p is true, but S believes that p based on [Unsuitable Reason].
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of version #1 of this [type], I will presume it’s uncontroversial that S *lacks knowledge* in version #1."
+tokens:
+  - "Milk in the Fridge 7: Upon waking, Anna believes that there’s milk in the fridge based on wishful thinking. Entering the kitchen, she looks into the fridge and sees no milk carton there, and comes to believe that there’s none left. In fact, there is milk hidden behind some food containers obstructing her view. (This token conforms to [version #1].)"
+  - "Milk in the Fridge 8: In the morning, Anna looks into the fridge and sees no milk carton there, and comes to believe that there’s none left. In fact, there is milk hidden behind some food containers obstructing her view. That afternoon, based on wishful thinking, Anna believes that’s now milk in there, as her flatmate might have been shopping and put some in there in the meantime. There is still milk in the fridge at that point. (This token conforms to [version #2].)"

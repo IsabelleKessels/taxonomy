@@ -1,0 +1,9 @@
+name: "Trustworthy Attester in Unfriendly Environment"
+descriptions:
+  - |
+    p is true, but attester R believes p based on [Unfriendly Environment] or [Unfriendly Instruments Environment]. 
+    
+    R asserts that p, S believes that p based on this testimony. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R trustworthy.
+comments: []
+tokens:
+  - "Fake Barns Henry’s Son: Everything is as in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), but in this version, we focus on Henry’s son’s belief rather than Henry’s. Suppose that his son is distracted by a videogame on his phone, and not looking out of the car window. His belief that there is a barn is based solely on Henry’s testimony."

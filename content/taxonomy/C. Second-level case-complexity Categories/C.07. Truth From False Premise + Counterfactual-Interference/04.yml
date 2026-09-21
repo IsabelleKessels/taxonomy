@@ -1,0 +1,10 @@
+name: "Counterfactually not Gettiered by an Instrument"
+descriptions:
+  - |
+    S reads an instrument, which displays “p~1~” and infers that p~1~. The instrument is broken. No matter which values the variable that the instrument is tracking takes, it will display “p~1~” until it’s fixed or interfered with. S isn’t aware of this malfunction and bases the belief that p~1~ on the false (explicit or implicit) premise that the instrument is reliable. As it so happens, p~1~ is true.
+
+    In modally close possible worlds, a different p-type proposition, p~n~, would be true and there would be an interference to the effect that the instrument is repaired and displays “p~n~.” S wouldn’t be aware of the interference. S would read the instrument and form the true belief that p~n~, based on the (explicit or implicit) premise that the instrument is reliable.
+comments: 
+  - "See [Counterfactually not Gettiered]."
+tokens:
+  - "Demon Clock 4: As in Kelp’s (2009) Demon Clock (see B.4., [Instrument Counterfactual-Interference in Modally Close non-p-Worlds]), a demon is obsessed with Russell and the beliefs he forms about what time it is when he looks at the grandfather clock in the hallway. In this version, the demon is a benevolent one. One day, the clock stops at 8:22 am after Russell leaves the house. After a long day, he returns home and, as it so happens, comes into the hallway and checks the clock just at 8:22 pm. Russell thus forms the true belief that it’s 8:22 pm by reading a stopped clock. Had he entered at a different time, the demon would have fixed the broken clock by replacing its battery and setting it to the correct time, just before Russell would look at it. Since Russell entered at 8:22 pm, however, the demon remained inactive."

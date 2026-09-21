@@ -1,0 +1,19 @@
+name: "Testimony-Based Gettiered Implication"
+descriptions:
+  - |
+    A trustworthy and reliable attester, R, asserts that r: r is true. An assertion that r could reasonably be taken to imply that q, this implication isn’t, however, intended by R. S takes R’s testimony to imply that q. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+  
+    The backup truth-maker is independent of the presence of misleading evidence for q: In some modally close worlds q would be false and S would come to believe that p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments:
+  - |
+    Machery et al.’s Hospital: 
+    
+    r = “Someone of the name Mary Jones is currently at the University Hospital.”; 
+    
+    q = “Paul’s wife Mary Jones is currently at the University Hospital.”; 
+    
+    p = “Paul’s wife Mary Jones is currently in hospital.”
+  - "Machery et al. (2018) investigated Hospital in two experiments of their x-phi study and report: When confronted with the binary choice between ascribing knowledge or not, in the first experiment “69.4% of participants reported that the protagonist does not know the relevant proposition” (130); and “76.4% of participants reported that the protagonist does not know the relevant proposition for the Hospital case” (135) in the second. When asked whether ‘S knows’ or ‘S feels like she knows, but doesn’t actually know’ in the first experiment “89.1% of participants reported that the protagonist does not know the relevant proposition” (130); and “85.1%” (135) in the second. Their first experiment had a sample size of n = 520 with 170 participants excluded for failing comprehension tasks (126f.), the second one had a sample size of n = 306 with 8 participants excluded for being younger than 18 or failing comprehension tasks (134)."
+tokens:
+  - "Machery et al.’s (2018) Hospital: “Paul Jones was worried because it was 10 p.m. and his wife Mary was not home from work yet. Usually she is home by 6 p.m. He tried her cell phone but just kept getting her voicemail. Starting to worry that something might have happened to her, he decided to call some local hospitals to ask whether any patient by the name of ‘Mary Jones’ had been admitted that evening. At the University Hospital, the person who answered his call confirmed that someone by that name had been admitted with major but not life‐threatening injuries following a car crash. Paul grabbed his coat and rushed out to drive to University hospital. As it turned out, the patient at University Hospital was not Paul’s wife, but another woman with the same name. In fact, Paul’s wife had a heart attack as she was leaving work, and was at that moment receiving treatment in Metropolitan Hospital, a few miles away.” (127.)"
+

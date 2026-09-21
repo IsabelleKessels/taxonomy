@@ -1,0 +1,10 @@
+name: "Receiver of Successful Testimony Gains Knowledge From Falsehood"
+descriptions:
+  - |
+    S believes that q based on a combination of [Successful Testimony] and [Misremembering] and/or [False Reasoning]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p is true.
+
+    The backup truth-maker for p is interdependent on the presence of the misleading evidence for q: In modally close worlds where this truth-maker wouldn’t be present and p would be false, S would not form the belief that q based on a combination of [Successful Testimony] and [Misremembering] and/or [False Reasoning].
+comments:
+  - "Klein (2008) about Appointment: “[I]it is plausible to believe that at least some people will take it to be a case of a false belief producing knowledge.” (38.)"
+tokens:
+  - "Klein’s (2008) Appointment: “On the basis of my apparent memory, I believe that my secretary told me on Friday that I have an appointment on Monday with a student. From that belief, I infer that I do have an appointment on Monday. Suppose, further, that I do have an appointment on Monday, and that my secretary told me so. But she told me that on Thursday, not on Friday. I know that I have such an appointment even though I inferred my belief from the false proposition that my secretary told me on Friday that I have an appointment on Monday.” (36.)"

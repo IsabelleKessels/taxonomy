@@ -1,0 +1,9 @@
+name: "Almost Gettiered in Unfriendly Instruments Environment"
+descriptions:
+  - |
+    Several instruments of the same type are available to S. Unknown to S, only some of them work reliably. As it so happens, S uses one of the reliable instruments; it displays “q~1~”, which is true. Inferring from this and the true (explicit or implicit) premise that the instrument is reliable, S forms the belief p, which is (deductively, inductively, or abductively) entailed by q~1~. As it so happens, p is true.
+
+    Had S used a malfunctioning instrument, it would have shown “q~n~” (where p~n~ ≠ q~1~ and q~n~ would thus be false). However, as q~n~ also (deductively, inductively, or abductively) entails that p, S would form the belief that p, inferring this from the relationship between q~n~ and p and the false (explicit or implicit) premise that the instrument is reliable.
+comments: []
+tokens:
+  - "Broken Thermometers 2: As in Goldman’s (1986) Broken Thermometers 1 (see B.3., [Unfriendly Instruments Environment]), “there are many thermometers in the parent’s medicine cabinet, and all but […] one […] are defective. All others would read 98.6 even if the child had a fever. Furthermore, the parent cannot tell which thermometer is which[.]” (45.) Hanne takes her child’s temperature, coincidentally with the reliable thermometer. It displays 98.6, and she comes to believe that her child doesn’t have a fever, which is true. Had Hanne used one of the unreliable thermometers, it would have falsely displayed a lower temperature (e.g., 97.9). Despite this, Hanne would have come to infer that her child doesn’t have a fever, which would be true."

@@ -1,0 +1,9 @@
+name: "Counterfactual Direct Interference with Cognitive States in p-Words"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    In modally close possible worlds, p would be true, but an interference would cause S to believe that non-p based on [Direct Cognitive Hindrance].
+comments: []
+tokens:
+  - "Counterfactual Matrix 2: As in Broncano-Berrocal’s (2014) Counterfactual Matrix (see [Counterfactual Direct Interference with Cognitive States in non-p-Words]), “[r]obots dominate the Earth. They hunt humans to use them as sources of bioelectrical and thermal energy. For that task, they use a special pistol that shoots a microchip to the human’s head in such a way that it automatically connects her to a simulated reality called the Matrix. Humans do not even notice the change. Unbeknownst to Neo, he has just entered an area full of robots. Robots start shooting microchips to his head but for very improbable reasons they miss. In the meantime, Neo has picked up a stone and has formed the belief that he is holding a stone in his hand.” (70f.) In this version, assume that if Neo were hit, the stone would remain clasped in his hand, however, he would be set into a state of believing that he dropped the stone."

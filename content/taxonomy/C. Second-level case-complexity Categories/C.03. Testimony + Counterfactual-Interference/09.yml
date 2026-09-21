@@ -1,0 +1,9 @@
+name: "Counterfactually Failed Transmission Process"
+descriptions:
+  - |
+    In the @-world a trustworthy and reliable attester, R, asserts that p: p is true and S forms the belief that p based on this testimony. S has no delusional beliefs about what makes R trustworthy and reliable.
+
+    In modally close possible worlds, where R would assert that p (via the same, or different, transmission process), some interference would distort the message so that S would understand nothing and would form no belief.
+comments: []
+tokens:
+  - "Inhouse Mail 1: Ryan and Sally are colleagues in a company where written messages are commonly sent using internal mail. Unluckily, all internal mail workers are currently off sick. The company has employed five temps to keep their mail service running. Of these five temps, only one is reliable. The others simply throw the messages they receive into the trash. Since the temps were only hired today, no one knows their reliability yet. Ryan wants to inform Sally that a meeting with an important client is scheduled for next Monday. By chance, Ryan hands his message to the reliable temp. Sally receives his message and forms the true belief about the meeting’s time."

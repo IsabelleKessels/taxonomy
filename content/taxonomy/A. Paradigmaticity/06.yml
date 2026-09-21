@@ -1,0 +1,7 @@
+name: "False Reasoning"
+descriptions:
+  - "p is false, but S falsely reasons that p (S uses false premises and/or makes a mistake in the reasoning process)."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Mouse in the Room 3: Luke believes a mouse was in the room, because he discovers what appear to be mouse droppings. In fact, they’re grains of black rice that his partner spilled while cooking. His belief is false."

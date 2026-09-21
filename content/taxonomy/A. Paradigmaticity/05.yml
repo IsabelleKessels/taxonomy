@@ -1,0 +1,10 @@
+name: "Misremembering"
+descriptions:
+  - "p is false, but S beliefs that p, because S misremembers that p."
+comments:
+  - |
+    Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*.
+
+    I take this [type] to only cover instances where S falsely believes something about the past, because they misremember a first-hand experience, see also [Accurate Memory].
+tokens:
+  - "Beans in the Garden 2: Veronika believes that peas grew in the back of the garden 20 years ago, because she misremembers her father planting and harvesting peas there. In fact, it was beans, not peas. Her belief is false."

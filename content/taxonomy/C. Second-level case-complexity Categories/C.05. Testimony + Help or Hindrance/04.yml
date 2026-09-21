@@ -1,0 +1,7 @@
+name: "Unsuccessful Transmission Caused by Direct Cognitive Hindrance"
+descriptions:
+  - "A reliable and trustworthy attester, R, asserts that p: p is true. Some factor influences S’s normal belief-formation processes, setting S into a state of believing that R attested non-p. S forms the belief that non-p, based on believing that R attested this."
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Celtic Chat 11: Luke asserts “Celtic are playing tonight” to Caitlin, which is true. However, a malicious demon, who wants to ensure that Caitlin only forms false beliefs about her favourite football club, interferes with Caitlin’s belief formation process: It sets her into a state of believing that Luke attested that Celtic *aren’t* playing. Caitlin accepts this apparent testimony and therefore forms the false belief that Celtic aren’t playing tonight."

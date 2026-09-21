@@ -1,0 +1,16 @@
+name: "Change of Truth Value & Basis for Belief: Paradigmatic Lack of Knowledge to Counterfactual-Interference"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment. 
+
+    At t~2~ p is false, but S believes that non-p based on [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds].
+comments: 
+  - |
+    To make Counterfactually Fake Video Call 11 conform with the [case-type], p must include a negation: 
+    
+    p = “Ben is *not* on a video call.”; non-p = “It’s *not* the case that Ben is *not* on a video call.” = “Ben is on a video call.”
+tokens:
+  - |
+    Counterfactually Fake Video Call 11: As in Keßels et al.’s (2026) Counterfactually Fake Video Call 1 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds]), “Judy wants to talk to her line manager Ben. Approaching his workspace, Judy sees that Ben is talking into his headset and that a video call app is opened on his laptop.” (n.pag.) She forms the belief that Ben is on a video call. “What Judy doesn’t realise is that Ben was determined to avoid talking to Judy at all costs. To deter Judy from addressing him, Ben had planned to fake being on a video call with Sara.” (n.pag.) In this version, Ben is faking the video call, so Judy’s belief is false.
+
+    Judy approaches Ben’s workplace again the following day. As it so happens, Ben actually receives an unexpected video call from Sara just before Judy arrives. Judy forms the belief that Ben is on a video call, which is true; but if Sara hadn’t have called, Ben would have faked another call.

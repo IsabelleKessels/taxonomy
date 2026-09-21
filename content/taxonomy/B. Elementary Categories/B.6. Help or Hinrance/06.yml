@@ -1,0 +1,7 @@
+name: "Indirect Cognitive Hindrance"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it decreases S’s reliability when forming beliefs about whether p by perception, memory or reasoning (e.g., by making S less attentive / alert). This leads to S forming the false belief that p based on [Misperception], [Misremembering] and/or [False Reasoning]."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Flea Market 1: Lars visits a flea market. He dislikes crowds and, as the market is very busy, gets rather nervous and distracted. While looking through a stall’s merchandise he picks up a shirt, believing that it’s a shirt from a reputable brand. What Lars doesn’t realise, due to his decreased attention, is that the stall is selling blatant dupes of popular brands, which would be obvious forgeries to most customers. The shirt that Lars picked up is a dupe."

@@ -1,0 +1,38 @@
+name: "Unfriendly Environment for Accepting Testimony"
+descriptions:
+  - "Unknown to S, S is in an environment featuring agents who would give false testimony regarding p. By chance, S receives testimony from a trustworthy and reliable attester, R, who asserts that p, which is true. Based on this testimony, S forms the belief that p. S has no delusional beliefs about what makes R trustworthy and reliable."
+comments:
+  - "This [case-type] resembles the [type] that subsumes Harman’s (1973) Unopened Letters, Horvath & Wiegmann’s (2016) CEO’s Painting and Lehrer & Paxson’s (1969) Tom Grabit (see D., [Change of Basis for Belief: Paradigmatic Knowledge to Unfriendly Environment for Accepting Testimony]), but it avoids the additional complication of involving {{< sc >}}Temporal Changes{{< /sc >}}."
+  - "Gendler and Hawthorne (2005) intuit about Room Full of Liars: “[T]here is a tendency to ascribe knowledge in this case.” (346.)" 
+  - "In contrast to this, Goldberg (2012b) intuits about Room Full of Expert Liars, which only differs from Gendler and Hawthorne’s original by specifying the deceptiveness of the lies: “S does not […] count as *knowing* that p through T’s testimony.” (47.)"
+  - "Gendler and Hawthorne (2005) intuit about Room Full of Unreliable Attesters: “Intuitions remain stably knowledge supporting[.]” (346.)"
+  - "Lackey (2008) intuits about Lucky Choice: “Pierre does not come to know that the Sears Tower is six blocks east on the basis of Zoe’s testimony[.]” (69.)"
+  - "Harman (1973) intuits about Newspaper: “[I]t is highly implausible that Jill should know simply because she lacks evidence everyone else has. Jill does not know. Her knowledge is undermined by evidence she does not possess.” (144.) For Cut Wire, he claims: “[Jill] does come to know that the political leader has been assassinated.” (147.)"
+  - | 
+    Analogously to [Unfriendly Environment] case-tokens, the following factors can be expected to play a relevant role:
+   
+    -	the likelihood of receiving testimony from someone who’d attest a falsehood, i.e., their spatial-temporal proximity to the agent,
+    -	the ratio of reliable, trustworthy agents to untrustworthy and/or unreliable ones,
+    - 	the persuasiveness of untrustworthy and/or unreliable attesters: how easily a lay person or expert would be misled by them, etc.
+ 
+    One further consideration might also be of relevance:
+    
+    -	Would other attesters give false testimony deliberately or unintentionally?
+ 
+    Factors other than spatial-temporal proximity can play a role, too, when it comes to the likelihood of receiving the testimony from someone who’d attest a falsehood. Compare Harman’s (1973) Newspaper with Cut Wire in this regard: If someone cut the wire of the TV broadcaster, then the possibility of S encountering the false announcement is very remote. Remote enough, I’d say, to justify this case-token being evaluated as knowledge. Similarly, if the wire is not cut and the announcements are aired, but S simply never consumes live media or interacts with people at the given time of day, the possibility of S hearing the announcement is remote. In all other example cases, people who would attest a falsehood are in close spatial-temporal proximity, indicating a high likelihood of receiving false testimony.
+    
+    Gendler & Hawthorne (2005), Goldberg (2012b) and Lackey (2008) each specify their cases such that the ratio of liars to genuine attesters is high.
+ 
+    Of the selected token cases, only Goldberg’s (2012b)  Room Full of Expert Liars specifies that the liars would successfully deceive S, the other authors leave this implicit.
+    
+    Regarding whether false testimony would be given deliberately or unintentionally: For cases which vary this factor while keeping everything else the same compare Room Full of Liars with Room Full of Unreliable Attesters. Gendler & Hawthorne (2005) believe that both represent knowledge (346). Diverging evaluations, however, seem at least possible."
+tokens:
+  - "Gendler and Hawthorne’s (2005) Room Full of Liars: “You enter a room and ask someone the time. She replies truthfully and correctly, and she is extremely reliable. But your informant happens to be surrounded by a roomful of compulsive liars.” (364.)"
+  - "Goldberg’s (2012b) Room Full of Expert Liars: “Unbeknownst to S, S is in a room full of expert liars who aim to deceive others whenever they (the liars) can get away with it. (These liars are so good that their lies would take in virtually everyone, including S.) Luckily, S happens upon T, the only reliable truth-teller in the room, who tells S that p. (This testimony is highly reliable, as T is both sincere and highly competent.) However, S would not have been able to discriminate the reliability of this testimony from that of the testimony she would have received had she bumped into any other speaker in the room.” (47.)"
+  - "Gendler and Hawthorne’s (2005) Room Full of Unreliable Attesters: “[Imagine the same situation as Room Full of Liars, but; IK] suppose that instead of being surrounded by compulsive liars, [S] […] is surrounded by well-meaning truth-tellers whose watches have stopped.” (364.)"
+  - |
+    Lackey’s (2008) Lucky Choice “Upon arriving in Chicago for the first time, Pierre asks the closest passerby that he sees, Zoe, for directions to the Sears Tower and she reports that it is six blocks east. While Zoe knows that this is the case, and Pierre has no reason to doubt either her credibility as a speaker or the truth of the proposition to which she is testifying, she is the only reliable speaker in this part of Chicago, completely surrounded by incompetents and liars.” (68.) 
+    
+    See also Lackey’s (2008) Insular Community (164f.).
+  - "Harman’s (1973) Newspaper: “A political leader is assassinated. His associates, fearing a coup, decide to pretend that the bullet hit someone else. On nationwide television they announce that an assassination attempt has failed to kill the leader but has killed a secret service man by mistake. However, before the announcement is made, an enterprising reporter on the scene telephones the real story to his newspaper, which has included the story in its final edition. Jill buys a copy of that paper and reads the story of the assassination. What she reads is true and so are her assumptions about how the story came to be in the paper. The reporter, whose by-line appears, saw the assassination and dictated his report, which is now printed just as he dictated it. Jill has justified true belief and, it would seem, all her intermediate conclusions are true. […] [E]veryone else has heard about the televised announcement. They may also have seen the story in the paper and, perhaps, do not know what to believe[.]” (143f.)"
+  - "Harman’s (1973) Cut Wire: Everything is as in Harman’s Newspaper, except that “as the political leader’s associates are about to make their announcement, a saboteur cuts the wire leading to the television transmitter. The announcement is therefore heard only by those in the studio, all of whom are parties to the deception.” (147.)"

@@ -1,0 +1,7 @@
+name: "Clear Perception"
+descriptions:
+  - "p is true and S beliefs that p, because S clearly perceives the matter of fact expressed by p."
+comments:
+  - "I presume that tokens of this [type] amount to paradigmatic cases of *knowledge*."
+tokens:
+  - "Cat on the Couch 1a: Stefan believes that the cat is on the couch, because he sees it sitting there. His belief is true."

@@ -1,0 +1,9 @@
+name: "Insufficient Sensory Help Direct Gettier"
+descriptions:
+  - |
+    Some factor influences S’s sensory organs or perceptual process such that S’s perception is improved. However, this is insufficient to prevent S misperceiving some specific detail so that it seems to S that q was true, even though q is false. However, S doesn’t form the belief that q. Instead, S forms a more general belief p, that is entailed by q. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the insufficient improvement: In some modally close worlds where q would be false, there would be the same factor influencing S’s sensory organs or perceptual process and S would have the same misperception and would form the belief p based on this, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Birdwatcher 7: Stefan is watching birds in the garden. He spots a small brown bird. Using binoculars to get a better look, he comes to the belief that there’s a dunnock in his garden. The bird he is looking at actually is a female house sparrow. It’s too far away for Stefan to realise that it doesn’t have the characteristic thin and pointy beak. As it so happens, his belief is true anyway because there is a dunnock in a different part of his garden."

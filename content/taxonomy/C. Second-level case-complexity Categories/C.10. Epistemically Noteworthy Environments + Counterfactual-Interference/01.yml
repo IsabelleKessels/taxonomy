@@ -1,0 +1,9 @@
+name: "Unfriendly Environment in Modally Close p-Worlds"
+descriptions:
+  - |
+    In the @-world p~1~ is true and S believes that p~1~ based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment. There is no misleading evidence for p-type propositions in S’s environment.
+
+    In modally close possible worlds, p~1~ would be true, but, unknown to S, there would be an interference to the effect that S’s environment would feature misleading evidence in regards to p~1~ (or p-type propositions), but S would only perceive the non-misleading evidence and, based on this, would form the true belief that p~1~.
+comments: []
+tokens:
+  - "Playful Barn Demon 2: As in Grundmann’s (2020) Playful Barn Demon 1 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds]), “Guy is driving through the countryside and sees a genuine barn under excellent observation conditions. On the basis of his vision he believes that there is a barn. In fact, all the other barn-shaped buildings in the vicinity are real barns. However, there is malicious demon watching him.” (5171.) The demon “would have transformed all the real barns […] into barn-façades, if heads had won a coin-toss just performed” (5171), yet, in this version, it would *exclude* the one that Guy would be looking at. Whether or not the demon would interfere is a matter of luck, it depends on a coin toss. Guy’s belief, that he’s looking at a (real) barn, is true and would be true in all modally close possible worlds. It doesn’t depend on which barn Guy would be looking at: the demon wouldn’t turn the barn in question into a façade. "

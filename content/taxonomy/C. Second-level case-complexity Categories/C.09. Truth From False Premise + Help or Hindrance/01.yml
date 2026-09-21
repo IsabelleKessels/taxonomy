@@ -1,0 +1,9 @@
+name: "Direct Cognitive Hindrance False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Direct Cognitive Hindrance]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true.
+
+    The backup truth-maker is independent of the presence of the hindrance: In some modally close worlds q would be false and S would believe that q based on [Direct Cognitive Hindrance], and believe p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Wine Tasting 2: As in Zagzebski’s (2001) Wine Tasting 1 (see C.14., [Counterfactual Direct Interference with Cognitive States in non-p-Words]), “Jones is very good at identifying vintages of Bordeaux. In particular, she has no trouble distinguishing a ’94 Chateaux Margaux from very similar wines. Black […] has installed a device in her head that can make Jones believe that the next wine she tastes is a ’94 Margaux whether it is or not.” (148.) In this version, however, the next wine is a ’86 Margaux. Through Black’s intervention, Jones forms the false belief that she’s drinking a ’94 Margaux. She then forms the inferred belief that she is drinking a French red wine worth three figures, which is true. Had the next wine been a Margaux of a recent vintage, she would have misidentified it and made the same inference, but it would be false, since the younger vintages are cheaper."

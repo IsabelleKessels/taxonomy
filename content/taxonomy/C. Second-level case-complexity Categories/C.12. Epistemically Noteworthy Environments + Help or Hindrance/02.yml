@@ -1,0 +1,9 @@
+name: "Indirect Cognitive Help Exposes Unfriendly Environment"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it increases S’s reliability when forming beliefs about whether p~1~ by perception, memory or reasoning (e.g., by making S more attentive / alert). Unknown to S, S is in an environment featuring misleading evidence in regards to p~1~ (or p-type propositions). By chance, S only encounters the non-misleading evidence and, based on this, forms the belief that p~1~, which is true. Given this evidence, S also would form this true belief that p~1~ if no [Indirect Cognitive Help] would be administered. If S were confronted with misleading evidence, the [Indirect Cognitive Help] would enable S to recognise this and prevent S from forming a false belief. "
+comments: []
+tokens:
+  - |
+    Fake Barns Exposed: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks out of his car window at the genuine barn. In this version, however, Henry has been administered a novel drug that increases cognitive processing and puts Henry in a state of high alertness to all his visual impressions. Looking at the barn, for example, he notices not only the shape of the structure, the colour of its doors, walls, roof etc., but also the shape of the shadow it casts in the afternoon sunlight. He forms the true belief that he’s looking at a barn. 
+
+    Had Henry been looking at one of the barn-façades instead, he would have noticed the peculiar shape of that structure’s shadow (as it is a two-dimensional façade with some supporting beams rather than a building with walls and a roof). Since Henry would notice this, he would realise that something is amiss and not form the belief that he’s looking at a barn.

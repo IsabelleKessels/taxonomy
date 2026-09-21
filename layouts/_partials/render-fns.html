@@ -1,0 +1,15 @@
+{{ $page := . }}
+{{ with $page.Store.Get "fn" }}
+  <footer class="grid grid--default-all">
+    <div class="footnotes" role="doc-endnotes">
+      <hr>
+      <ol>
+        {{ range $id, $value := . }}
+          <li id="fn:{{ $id }}">
+            <p>{{ $page.RenderString $value }}&nbsp;<a href="#fnref:{{ $id }}" class="footnote-backref" role="doc-backlink">↩︎</a></p>
+          </li>
+        {{ end }}
+      </ol>
+    </div>
+  </footer>
+{{ end }}
