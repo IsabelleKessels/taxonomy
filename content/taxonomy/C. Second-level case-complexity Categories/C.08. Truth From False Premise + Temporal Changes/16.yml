@@ -1,0 +1,15 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Lack of Paradigmatic Knowledge to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes p based on [Unsuitable Reason].
+
+    At t~2~ p is false, but S believes non-p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+comments: 
+  - |
+    To make Sheep 7 conform with the [case-type], p must include a negation: 
+    p = “There are *no* sheep in the field.”; non-p = “It’s *not* the case that there are *no* sheep in the field.” = “There is a sheep in the field.”
+tokens:
+  - |
+    Sheep 7: Alex is on a hiking trail, which will lead her to a viewpoint in about half an hour. Alex reads a sign saying that a wolf has been frequenting this area, including the fields. Alex thinks about the fields she’ll overlook soon and, since she has a fondness for sheep and wouldn’t want them to be at risk of getting caught by a wolf, forms the belief that there are no sheep in the field now (say, because a shepherd has led them into the stables) based on wishful thinking. As it so happens, there are no sheep in the field at that moment, but there’s a sheep in the nearby forest.
+    
+    Half an hour later, Alex has reached the viewpoint and is overlooking a field. As in Chisholm’s (1966/1989) Sheep 1 (see B.2., [Direct Gettier]), Alex “*takes* there to be a sheep in the field and does so under conditions which are such that, when under those conditions a person takes there to be a sheep in the field, then it is *evident* for that person that there is a sheep in the field. The person [Alex; IK], however, has mistaken a dog for a sheep and so what [s]he sees is not a sheep at all. Nevertheless it happens that there *is* a sheep in another part of the field.” (93.) This is because the sheep that was in the forest half an hour ago, has meanwhile entered the field.

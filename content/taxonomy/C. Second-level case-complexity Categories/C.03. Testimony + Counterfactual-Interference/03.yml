@@ -1,0 +1,10 @@
+name: "Deliberate Counterfactually False Testimony Through Interference with p"
+descriptions:
+  - |
+    In the @-world p is true and attester R asserts that p. S forms the belief that p based on R’s testimony. However, the fact that R asserts the truth depends on the value of some contingent factor. 
+
+    In modally close possible worlds, the value of this factor would differ. R would attest that p, but – unsuspected by S – R would also cause an interference making p untrue. S would gain a false belief that p.
+comments: 
+  - "Comesaña (2005) intuits about Halloween Party: “[A]fter I talk to Judy I know that the party is at the house down the left road[.]” (397.)"
+tokens:
+  - "Comesaña’s (2005) Halloween Party: “There is a Halloween party at Andy’s house, and I am invited. Andy’s house is very difficult to find, so he hires Judy to stand at a crossroads and direct people towards the house (Judy’s job is to tell people that the party is at the house down the left road). Unbeknownst to me, Andy doesn’t want Michael to go to the party, so he also tells Judy that if she sees Michael she should tell him the same thing she tells everybody else (that the party is at the house down the left road), but she should immediately phone Andy so that the party can be moved to Adam’s house, which is down the right road. I seriously consider disguising myself as Michael, but at the last moment I don’t. When I get to the crossroads, I ask Judy where the party is, and she tells me that it is down the left road.” (397.)"

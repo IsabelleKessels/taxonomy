@@ -1,0 +1,12 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Counterfactual-Interference to Counterfactual-Interference"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds].
+
+    At t~2~ p is false and S believes that non-p based on a different instance of [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p-Worlds] than at t~1~.
+comments: []
+tokens:
+  - |
+    Counterfactually Fake Video Call 14: As in Counterfactually Fake Video Call 1 and 2 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds] and [-p-Worlds]), line manager Ben sometimes tries to avoid conversations with his employee Judy, and is prepared to fake being on a video call to appear busy. Ben usually knows when Judy’s approaching, because he recognises the sound of her footsteps (Judy usually wears high heels, which click distinctively), giving him enough time to set up the fake video call. However, as it so happens, he receives an unexpected video call from Sara just as Judy is approaching, so Ben doesn’t have to fake the call. Judy forms a true belief that Ben is on a call.
+
+    Judy approaches Ben’s workspace again the following day, however, Ben doesn’t realise this in time to set-up the fake video call, because Judy is wearing trainers. Judy sees that Ben is not on a video call and forms a true belief about this. Had she opted for her usual high heels when getting dressed that morning (which she almost did), Ben would have heard her and faked the video call. Judy would have falsely come to believe that Ben is on a call.

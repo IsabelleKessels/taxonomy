@@ -1,0 +1,9 @@
+name: "Sensory Hindrance False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Sensory Hindrance]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker is independent of the hindrance: In some modally close worlds q would be false and S would believe that that q based on [Sensory Hindrance], and believe p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments: []
+tokens:
+  - "Meinong’s Harp 2: Suppose the agent in Meinong’s Harp, as presented by Chisholm (1966/1989) (see [Sensory Hindrance Direct Gettier]), consciously forms the false belief “the sound I perceived was that of the Aeolian harp” and infers from this that the harp was sounding."

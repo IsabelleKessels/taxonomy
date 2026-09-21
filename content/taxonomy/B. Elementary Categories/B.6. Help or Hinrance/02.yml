@@ -1,0 +1,7 @@
+name: "Direct Cognitive Hindrance"
+descriptions:
+  - "Some factor influences S’s normal belief-formation processes, setting S into a state of believing that p, and p is false."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Actual Matrix: As in Broncano-Berrocal’s (2014) Counterfactual Matrix (see C.14., [Counterfactual Direct Interference with Cognitive States in non-p-Words]), “[r]obots dominate the Earth. They hunt humans to use them as sources of bioelectrical and thermal energy. For that task, they use a special pistol that shoots a microchip to the human’s head in such a way that it automatically connects her to a simulated reality called the Matrix. Humans do not even notice the change. Unbeknownst to Neo, he has just entered an area full of robots. Robots start shooting microchips to his head[.]” (70f.) In this version, assume that one of the shots finds its aim. Neo was holding a stone in his hand and drops it upon being shot, yet, the microchip sets him into a state of believing that he’s still holding the stone."

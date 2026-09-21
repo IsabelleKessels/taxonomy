@@ -1,0 +1,7 @@
+name: "Unsuccessful Transmission Caused by Sensory Hindrance"
+descriptions:
+  - "A reliable and trustworthy attester, R, asserts that p: p is true. Some factor influences S’s sensory organs or perceptual process such that S’s perception of the testimony is corrupted. This leads to S forming the belief that non-p based on [Unsuccessful Transmission]."
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Celtic Chat 13: Just after someone blasted an airhorn near Caitlin’s ears, her brother Luke calls. With her ears still ringing, she picks up and starts talking to Luke. He wants to speculate about the ideal formation of Celtic’s next match. He asserts: “Cameron Carter-Vickers has recovered from his injury” to Caitlin. Due to the ringing in her ears, Caitlin mishears and comes to believe that “Cameron Carter-Vickers *hasn’t* recovered from his injury,” which is false. "

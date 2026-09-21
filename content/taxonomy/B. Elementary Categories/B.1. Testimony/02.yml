@@ -1,0 +1,10 @@
+name: "False Testimony"
+descriptions:
+  - "Attester R asserts that p, p is false, but S believes that p based on this testimony."
+comments:
+  - |
+    Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*.
+
+    In cases of this [type], attester R is unreliable. Whether R is generally untrustworthy or only unreliable regarding p will vary between tokens.
+tokens:
+  - "Celtic Chat 2: Luke asserts “Celtic are playing tonight” to Caitlin. For some reason Luke is mistaken and Celtic *are not* playing tonight, nonetheless Caitlin believes his testimony."

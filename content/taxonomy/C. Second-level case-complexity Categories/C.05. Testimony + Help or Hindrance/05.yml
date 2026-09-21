@@ -1,0 +1,7 @@
+name: "Unsuccessful Transmission Caused by Indirect Cognitive Hindrance"
+descriptions:
+  - "A reliable and trustworthy attester, R, asserts that p: p is true. Some factor influences S’s cognitive states such that it decreases S’s reliability when forming beliefs about whether p based on testimony (e.g., by making S less attentive / alert). This leads to S forming the belief that non-p based on [Unsuccessful Transmission]."
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Celtic Chat 12: Discussing the ideal formation of tonight’s match over a pint, Luke truthfully asserts to Caitlin: “Cameron Carter-Vickers has recovered from his injury.” If Caitlin hadn’t had several beers already, she’d be properly concentrated on the conversation. However, since she’s slightly drunk, she misunderstands what Luke said and comes to believe that “Cameron Carter-Vickers *hasn’t* recovered from his injury,” which is false."

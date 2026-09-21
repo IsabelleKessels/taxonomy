@@ -1,0 +1,10 @@
+name: "Truth Value Dependent Counterfactually False Testimony"
+descriptions:
+  - |
+    In the @-world attester R, who is reliable and trustworthy regarding propositions other than p, asserts that p: p is true and S forms the belief that p based on this testimony.
+
+    In modally close possible worlds, p would be false, but R would nonetheless attest that p. S would come to believe that p based on R’s [False Testimony].
+comments: 
+  - "Lackey (2008) intuits about Almost a Liar: “[T]he true belief that Phil forms on the basis of Jill’s testimony not only fails to qualify as knowledge, it also fails to be justified or warranted.” (70.)"
+tokens:
+  - "Lackey’s (2008) Almost a Liar: “Phil […] trusts those whom he has good reason to trust – or at least those whom he has no clear reason to distrust – and distrusts those whom he has good reason to distrust. […] Phil ran into Jill […], and she also told him that she had seen an orca whale while boating earlier that day. Phil, having acquired very good reasons for trusting Jill over the five years he has known her, readily accepted her testimony. It turns out that Jill did in fact see an orca whale on the boat trip in question, that she is very reliable with respect to her epistemic practices, both in general and in this particular instance, that she is generally a very reliable testifier, and that Phil has no reason to doubt the proffered testimony. However, in order to promote a whale watching business she is in the process of starting, she would have reported to Phil—in precisely the same manner—that she had seen an orca whale even if she hadn’t. (Of course, she wouldn’t have believed that she had seen an orca whale if she hadn’t.) Moreover, given the pattern of the whales’ travel combined with the particular time of year it is, it is in fact quite surprising that Jill saw an orca whale when and where she did.” (69.)"

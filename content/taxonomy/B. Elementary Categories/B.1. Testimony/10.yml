@@ -1,0 +1,13 @@
+name: "Silent Approval of Correct Testimony"
+descriptions:
+  - |
+    A trustworthy attester R believes that p and has good evidence which indicates that p, but which is not entirely conclusive. R asserts that p to S in the presence of agent T and p is, in fact, true. T is a reliable and trustworthy agent who believes that p based on
+
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or
+    - [Successful Testimony] by a reliable and trustworthy fourth attester (U).
+
+    T silently approves of R’s testimony (through gestures, such as nodding along to what R asserts, or merely not contradicting R). If T had counter-evidence for p, T would have interjected. S believes that p based on the combination of R’s testimony and T’s silent approval. S has no delusional beliefs about what makes R or T trustworthy, or T reliable regarding p.
+comments:
+  - "I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but silent approval of a third party can serve as further evidence for something that is attested to: Testimony that p of an attester who doesn’t aim to deceive, but just falls short of being suitably reliable, can be conferred reliability through the silent approval of others who have better evidence for believing p."
+tokens:
+  - "Unconfident Student: René is a student in Tilly’s physics class. René is giving a presentation in this class. He feels confident about most of the research he did, but he’s not 100% sure that his conclusion that p is true. In the presence of his teacher Tilly, René asserts that p. Based on this assertion, and the fact that Tilly does not interject, his fellow students form the belief that p, which is indeed true."

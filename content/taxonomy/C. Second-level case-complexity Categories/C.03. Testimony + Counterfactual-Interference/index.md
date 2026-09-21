@@ -1,0 +1,6 @@
+---
+id: C.3
+title: Testimony + Counterfactual-Interference
+---
+
+In {{< sc >}}Counterfactual-Interference{{< /sc >}} cases S gains a true belief based on _prima facie_ suitable evidence in the @-world, but there would be an interference in modally close possible worlds such that S would gain a false belief. Testimony cases involve (at least) two agents, attester R and receiver S: either agents’ evidence base can be made vulnerable to {{< sc >}}Counterfactual-Interference{{< /sc >}}.{{< fn 1 "In this preliminary taxonomy, I don’t differentiate [case-types] in this complex Category by whether the Counterfactual-Interference manifests as [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p-Worlds]. Separate [case-types] can (and should) be established if x-phi results on tokens of the corresponding elementary [types] indicate different evaluation-behaviours." >}} Where the {{< sc >}}Counterfactual-Interference{{< /sc >}} would affect receiver S’s evidence base, this can result in S counterfactually receiving [False Testimony], or being subject to [Unsuccessful Transmission].

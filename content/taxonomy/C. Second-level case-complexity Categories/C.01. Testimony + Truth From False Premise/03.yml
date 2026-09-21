@@ -1,0 +1,23 @@
+name: "Gettiered  by a Deceptive Attester"
+descriptions:
+  - |
+    p is true, but R believes that non-p based on 
+    
+    - [Misperception], [Misremembering] and/or [False Reasoning], or 
+    - [False Testimony], [Unsuccessful Testimony], [Testimony-Based False Implication] involving a different attester T.
+  
+    R aims to misinform S, and thus asserts that p. S is unaware of R’s intention to mislead and forms the belief that p based on R’s testimony.
+    
+    The fact that R aims to misinform is independent of the fact that R has a false belief: In some modally close worlds R’s belief about p would be based on  
+    
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or 
+    - [Successful Testimony] by a different attester T.
+  
+    R would misinform S about p, and S would gain a false belief about p.
+comments:
+  - "Miracchi (2015) intuits about Double Play: “Creola is justified, because she forms beliefs on the basis of testimony (and let’s assume she is typically justified when she does so and has no reason to think George is unreliable or uncooperative on such matters), and her beliefs are true, but she doesn’t know.” (39.)"
+  - "Bondy and Olson (2015) intuit about Graduation: “In this case do we want to say that Smith knows she has graduated? On the one hand, it is true and Smith has good reasons – her mother’s testimony – to believe that it is true. But, she has also received what is believed by the messenger to be false information. […] We suspect intuitions pull in different directions, with slightly more force toward the negative—Smith does not know she has graduated[.]” (630.)"
+  - "I use the term ‘gettiered’ in this [case-type]-name, since p’s truth-maker is independent of S’s reasons to believe R (or S’s lack of reasons to distrust R)."
+tokens:
+  - "Miracchi’s (2015) Double Play: “Creola has two friends, Fred and George. For some reason, Fred lies to George and tells him that he did not see a play that evening, when he actually has. By chance George, trying to deceive Creola, tells her that Fred did see a play that evening. Creola, suspecting nothing, forms a true belief that Fred saw a play that evening.” (39.) "
+  - "Bondy and Olson’s (2015) Graduation: “While rollerblading to the school to get her report, she [Smith; IK] had an accident that required her to spend two days in the hospital. Furthermore, the nature of the accident put Smith in a coma for the twenty-four hours between the accident and the time of our attribution claim. Upon waking, Smith discovers that it is the day after she should have received her report card, and potentially her diploma. Due to her dubious grades, she is unsure whether or not she has graduated. […] [T]he school has delivered Smith’s report and diploma to the wrong address, leading her mother to falsely believe that Smith did not make the grade and has therefore failed to graduate. Recognizing Smith’s physical trauma and not wanting to add to her stress, Mom assures her daughter that she has graduated. That is, Mom believes she is lying to Smith concerning the status of her graduation, when in fact Smith *has* graduated.” (629f.)"

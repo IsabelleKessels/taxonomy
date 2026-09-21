@@ -1,0 +1,18 @@
+name: "Irrational Receiver in an Unexpected Regularity Environment"
+descriptions:
+  - |
+    S is in an environment that features an unexpected regularity: Trustworthy and reliable attesters regarding p type propositions can (typically, or inevitably) be identified by a specific behaviour or property B. 
+  
+    S is not aware of this regularity and doesn’t discriminate between attesters displaying B and those that are not. S asks attester R whether p~1~. R displays behaviour B and asserts that p~1~, which is true. S forms the belief that p~1~, but S is an [Irrational Receiver], i.e., S’s judgement that R’s testimony can be trusted is based on [Unsuitable Reason].
+comments:
+  - |
+    Gardiner (2018) intuits about Physics Convention 1: “Phyllis’s abilities are not remotely salient in an explanation of how she formed the true belief, especially compared to the abilities of the physics expert, and the well-informed receptionist. Indeed Phyllis forms a true belief despite her flawed approach. Yet Phyllis knows.” (302.)
+ 
+    In this Physics Convention 1 the behaviour or property B is not explicitly defined and S doesn’t directly approach R, but first approaches another attester T, who doesn’t display B. I hold these differences to be negligible, and the involvement of the third attester as merely an illustrative detail to convey S’s status as an [Irrational Receiver]. One could, however, argue that once the desk attendant recommends the expert, this gives her suitable reason to trust the expert’s testimony.
+    
+    Physics Convention 2 is more clear-cut, because Carl doesn’t discriminate between suitable attesters, but by chance he immediately approaches the right person. 
+    
+    I suspect the hidden regularity is less important to intuitions about this [case-type] than the fact that S is *not* in an unfriendly environment where other attesters would lie, but the unsuitable attesters S might approach would probably just admit they don’t know whether p.
+tokens:
+  - "Gardiner’s (2018) Physics Convention 1: “Phyllis attends the International Physics Convention. Many well-regarded scientists attend. Misunderstanding the conventions of academic conferences, Phyllis asks a specialized physics question to the hotel’s registration desk attendant. The attendant happens to know an expert on the topic is nearby, and beckons the expert. The expert tells Phyllis the answer.” (301.)"
+  - "Physics Convention 2: Chemistry postdoc Carl is attending an interdepartmental get-together. When a very specialised question, that only someone with a degree in physics could answer, pops into his head he randomly asks the person standing next to him, a woman wearing pink socks, what the answer is. She tells him. Carl is not aware that he’s talking to one of the physics professors, he simply accepts her testimony. He’s doesn’t ask her how she knows the answer. He’s also not aware that all of the physics professors had coordinated to wear pink socks to this outing as a private joke, so anyone with pink socks, would have been a good source of information for his question."

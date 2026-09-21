@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief: Help to Help"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Direct Cognitive Help], [Indirect Cognitive Help] or [Sensory Help].
+
+    At t~2~ p is true, but S believes that p based on a different instance of [Direct Cognitive Help], [Indirect Cognitive Help] or [Sensory Help] than at t~1~.
+comments: []
+tokens:
+  - "Milk Demon 1: In the morning, a benevolent demon sets Anna into a state of believing that there’s milk in the fridge, which is true. Later that day, a different benevolent interferes with Anna’s sense perception, making her temporarily highly sensitive to the smell of milk. Upon opening the fridge, looking for a soda, she perceives the smell of milk and forms the belief that there’s milk in the fridge, which is true, albeit that the carton is hidden from Anna’s view."

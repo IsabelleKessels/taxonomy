@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Counterfactual-Interference to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Counterfactual-Interference in Modally Close non p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds].
+
+    At t~2~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - |
+    Counterfactually Fake Video Call 8: As in Counterfactually Fake Video Call 2 (see B.4., [Counterfactual-Interference in Modally Close p-Worlds]), line manager Ben sometimes tries to avoid conversations with his employee Judy, and is prepared to fake being on a video call to appear busy. Ben usually knows when Judy’s approaching, because he recognises the sound of her footsteps (Judy usually wears high heels, which click distinctively), giving him enough time to set up the fake video call. Today, however, Ben doesn’t realise Judy is approaching because she is wearing trainers. On reaching his workspace, Judy sees that Ben is not on a video call. Had she opted for her usual high heels when getting dressed that morning (which she almost did), Ben would have heard her and faked the video call. Judy would have falsely come to believe that Ben is on a video call. 
+
+    In this version, Judy wears her high heels the following day. She wants to have another conversation with Ben and, approaching his workspace, sees him wearing his headset with a video call app opened on his laptop. She comes to believe that Ben is on a call. However, Ben heard Judy approaching, and quicky set-up a fake video call. Judy’s belief is false.

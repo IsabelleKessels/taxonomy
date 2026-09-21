@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief: Paradigmatic Lack of Knowledge to Hindrance"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning]. 
+
+    At t~2~ p is true, but S believes that non-p based on [Direct Cognitive Hindrance], [Indirect Cognitive Hindrance] or [Sensory Hindrance].
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk Demon 7: In the morning, Anna looks into the fridge and forms the false belief that there’s no milk there, because the carton is hidden from her view behind other containers. Later that day, a malicious demon sets Anna into a state of believing that there’s no milk in the fridge, which is false."

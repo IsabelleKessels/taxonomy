@@ -1,0 +1,11 @@
+name: "Deliberate Counterfactually False Testimony"
+descriptions:
+  - |
+    In the @-world p~1~ is true and attester R asserts that p~1~. S forms the belief that p~1~ based on R’s testimony. However, the fact that R asserts the truth depends on the value of some contingent factor. 
+
+    In modally close possible worlds, the value of this factor would differ. p~1~ would be true, but R would deliberately attest that non-p~1~ (or that p~n~, where p~n~ would be false) to S. S would not recognise this and gain a false belief that non-p~1~ (or p~n~). 
+comments: 
+  - "Comesaña (2005) intuits about Halloween Coin Flip: “I do *not* know that the party is at house down the left road.” (402.) "
+tokens:
+  - "Comesaña’s (2005) Halloween Party Coin Flip: Everything is as in Comesaña’s Halloween Party (see [Deliberate Counterfactually False Testimony Through Interference with p]), except that: “Judy decides whether to tell the truth by flipping a coin: heads she lies, tails she tells the truth. She flips the coin and it comes up tails.” (402.)"
+  - "Halloween Party Lie: Everything is as in Comesaña’s (2005) Halloween Party, except that if Judy’s questioner is Michael (or someone mistaken for Michael), Judy is supposed to lie and say the party is down the right road. The party stays located down the left road."

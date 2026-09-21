@@ -1,0 +1,6 @@
+name: "Testimony-Based Successful Implication"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that q: q is true. An assertion that q could reasonably be taken to imply that p is true, and this implication is intended by R. S takes R’s testimony to imply that p. S therefore forms the belief p. p is true. S has no delusional beliefs about what makes R trustworthy and reliable."
+comments: []
+tokens:
+  - "Classmates 1: Josef and Johanna are classmates receiving their biology exam results. Upon Johanna asking Josef how he feels about his grade, he replies “I’m happy with it,” aiming to convey that he got a passing grade. Johanna infers that Josef passed the exam, which is true."

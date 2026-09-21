@@ -1,0 +1,28 @@
+{{ define "content" }}
+
+{{ with .Content }}
+  <section class="grid grid--default-all">
+    {{ . }}
+  </section>
+{{ end }}
+
+{{ $pages := sort .Pages "RelPermalink" }}
+<section class="grid grid--default-all space">
+  {{ range $pages }}
+    <article class="excerpt border grid__subgrid grid--default-all">
+      <a class="link link--plain" href="{{ .Permalink }}">
+        <h3 class="excerpt__title">
+          {{ .Params.id }}.
+          <span style="font-variant-caps: all-small-caps">{{ .Title }}</span>
+        </h3>
+        <p class="excerpt__description">
+          {{ .Description | markdownify | plainify | htmlUnescape }}
+        </p>
+      </a>
+    </article>
+  {{ end }}
+</section>
+{{ end }}
+{{ define "backmatter" }}
+{{ partial "render-fns" . }}
+{{ end }}

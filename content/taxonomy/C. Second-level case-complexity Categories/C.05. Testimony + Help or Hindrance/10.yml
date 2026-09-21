@@ -1,0 +1,6 @@
+name: "Correct Reasoning that Direct Cognitive Help Makes Testimony Reliable"
+descriptions:
+  - "Some factor administers [Direct Cognitive Help] to R when R forms the belief that p. R asserts that p. S is aware that the factor is present and infers that it set R into the cognitive state of believing p. S thus correctly reasons that p, which is true."
+comments: []
+tokens:
+  - "Truetemp’s Surgeon: As in Lehrer’s (1990) Truetemp (see B.6., [Direct Cognitive Help]) “Mr. Truetemp, undergoes brain surgery by an experimental surgeon who invents a small device which is both a very accurate thermometer and a computational device capable of generating thoughts” (162). The device measures the temperature and “sends a message to his [Truetemp’s] brain causing him to think of the temperature recorded by the external sensor” (162). In this version, Truetemp runs into the surgeon, Sue, months later. Sue asks him what the temperature is, and he answers: “It’s 104 degrees.” Reasoning based on Truetemp’s testimony and her memory that she ran several tests to confirm that the tempucomp was working reliably, Sue forms the belief that it is 104 degrees. It really is 104 degrees."

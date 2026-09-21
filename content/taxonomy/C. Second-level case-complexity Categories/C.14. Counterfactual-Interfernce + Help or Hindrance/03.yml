@@ -1,0 +1,12 @@
+name: "Counterfactual Indirect Interference with Cognitive States in non-p-Words"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    In modally close possible worlds, there would be an interference to the effect that p would be false and causing S to believe that p based on [Indirect Cognitive Hindrance].
+comments: []
+tokens:
+  - |
+    Flea Market 9: Lars wanted to visit a flea market for quite some time, but because he gets rather nervous and distracted in larger crows, he has been hesitant. One day, randomly, he decides to go. He visits the flea market and, looking through a stall’s merchandise, picks up a shirt. As it so happens, only a few people are around this part of the flea market, so Lars is feeling at ease and undistracted. He recognises that the shirt he picked up is of a reputable brand. The stall normally sells dupes for very low prices, attracting many customers, so there usually is a big crowd surrounding it. This part of the flea market is currently so empty because the merchant received a warning that customs officials would carry out an inspection today, so they exchanged their merchandise for genuine products. They put up signs with significantly higher prices. 
+
+    In modally close possible worlds, the merchant would not have received the tip, and Lars would be in the middle of a busy crowd of customers. He would be holding a dupe, but be too distracted by the crowd to realise this. He would falsely believe he’s holding a shirt from a reputable brand.

@@ -1,0 +1,10 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Hindrance to Hindrance"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Direct Cognitive Hindrance], [Indirect Cognitive Hindrance] or [Sensory Hindrance].
+
+    At t~2~ p is false, but S believes that p based on a different instance of [Direct Cognitive Hindrance], [Indirect Cognitive Hindrance] or [Sensory Hindrance] than at t~1~.
+comments:
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk Demon 30: In the morning, a malicious demon sets Anna into a state of believing that there’s no milk in the fridge, which is false. Later that day, a different malicious demon interferes with Anna’s cognitive processes, making her temporarily highly inattentive. Looking into the fridge, Anna’s gaze wanders over its contents, and despite the fact that they look quite dissimilar, Anna mistakes the orange juice carton for milk and forms the belief that there’s milk in the fridge, which is, at that time, false."

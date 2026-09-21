@@ -1,0 +1,15 @@
+name: "Counterfactually Receiving False Testimony"
+descriptions:
+  - |
+    In the @-world p is true and S believes that p based on
+
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. 
+    - [Successful Testimony] by another attester T.
+    
+    In modally close possible worlds, p would be false and the basis for believing p that S has in the @-world wouldn’t be available. Instead, S would come to believe that p based on [False Testimony] given by attester R. 
+comments: 
+  - "Nozick (1981) intuits about Grandmother: “Yet this does not mean she doesn’t know he is well (or at least ambulatory) when she sees him.” (179.) "
+  - "Carrier (1976) intuits about Phone Call: “I have used this example before […], but I interpreted it wrongly. I formerly believed that the example showed a lack of knowledge […]. I am now persuaded that only because I was in the grip of the nomic analysis did I fail to see that the case imagined is more plausibly considered to be a case of genuine knowledge.” (255, fn. 8.)"
+tokens:
+  - "Nozick’s (1981) Grandmother: “A grandmother sees her grandson is well when he comes to visit; but if he were sick or dead, others would tell her he was well to spare her upset.” (179.)"
+  - "Carrier’s (1976) Phone Call: “Heloise first promises Abelard that she will telephone him at noon and then keeps her promise. Abelard believes that he is conversing with her, and his belief has been caused by this conversation. So it seems natural to say that he knows that he is conversing with her. Imagine, however, that Abelard’s psychiatrist feared that Abelard would have a breakdown if he did not receive Heloise’s telephone call exactly at noon. Knowing what a scatterbrain Heloise is, the psychiatrist hired an actress whose mimicry of voices goes undetected by the finest electronic devices and instructed her to telephone Abelard and impersonate Heloise. Both the actress and Heloise dial Abelard’s number at noon, but only the call from Heloise is actually put through. So if Heloise were not conversing with Abelard, the actress would be saying exactly the same things to him in the same way and making him believe it was Heloise. Here is a case in which, even if Abelard were not talking to Heloise, he would still have believed that he was talking to her.” (241f.)"

@@ -1,0 +1,12 @@
+{{ $page := .page }}
+{{ $data := .data }}
+{{ if reflect.IsSlice $data }}
+  <ul class="list list--plain flex" style="gap: calc(1rem * var(--baseline))">
+    {{ range $data }}
+      <li class="list__item">{{ $page.RenderString . }}</li>
+    {{ end }}
+  </ul>
+
+{{ else }}
+  {{ errorf "Expected a slice, got '%s'." .data }}
+{{ end }}

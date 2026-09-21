@@ -1,0 +1,11 @@
+name: "Change of Attester’s Basis for Belief After Attesting: Gettiered to Paradigmatic Knowledge – Receiver Doesn’t Get Updated "
+open: true
+descriptions:
+  - |
+    At t~1~ p is true, but R believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier]. R asserts that p. S believes that p based on this testimony. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R trustworthy.
+
+    At t~2~ p is true and R realises that one of the premises R (explicitly or implicitly) based the belief that p on at t~1~ is in fact mistaken. Now R believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. Since the information that p is true is correct, R doesn’t inform S about the change in their basis for believing p.
+comments:
+  - "Peet and Pitcovski (2018) state about Brain Tumor: “At t~2~ Mark’s belief shifted from non-knowledge to knowledge.” (147.) However, they explicitly *argue* for this interpretation; they avoid disclosing whether this was their initial intuition about the case."
+tokens:
+  - "Peet and Pitcovski’s (2018) Brain Tumor: “Mark has gone to the hospital to seek a diagnosis for his apparent illness. Alex, his doctor, runs a routine test, and concludes that Mark has a brain tumor. At t~1~, Alex tells Mark ‘You have a brain tumor’. Mark believes her. As it happens, Mark’s brain has a slightly odd structure. Alex’s test, although highly reliable with respect to most brains, is completely unreliable when it comes to brains structured like Mark’s. Later, unbeknownst to Mark, Alex runs a routine follow up test. This second test, unlike the first, is highly reliable on all brains, including those like Mark’s. Alex expertly interprets the results and at t~2~ she reaches two conclusions. Firstly, she finds that given the unique structure of Mark’s brain the first test was unreliable. Secondly she finds out that Mark does, with utmost certainty, have a brain-tumor. If Alex discovered that Mark didn’t have a brain tumor she would have informed him. Indeed, she would have been morally, socially, and institutionally obligated to do so. However, as things stand, she sees no need to tell him about the follow-up results.” (144f.)"

@@ -1,0 +1,12 @@
+name: "Change of Basis for Belief: Leaving an Unfriendly Environment but Retaining one’s Belief"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    At t~2~ p is true, but S believes that p based on remembering the evidence S had at t~1~ alongside the true premise that nothing has interfered which might falsify p between t~1~ and t~2~.
+comments: []
+tokens:
+  - |
+    Fake Barns Over Time 2: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks out of his car window at the genuine barn. He forms the true belief that the structure is a barn.
+
+    Later that week, Henry is reflecting on his journey when someone asks him which route he took. He thinks of all the landmarks he passed and remembers the spot with the barn at the side of the road.

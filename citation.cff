@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Bitte zitiere dieses Werk wie folgt."
+type: dataset
+title: "A Preliminary Taxonomy of Thought Experiments on Knowledge"
+authors:
+  - family-names: "Keßels"
+    given-names: "Isabelle"
+license: CC-BY-4.0
+url: "https://isabellekessels.github.io/taxonomy/"
+repository-code: "https://github.com/isabellekessels/taxonomy"
+keywords:
+  - epistemology
+  - thought experiments
+  - taxonomy
+preferred-citation:
+  type: website
+  title: "A Preliminary Taxonomy of Thought Experiments on Knowledge"
+  authors:
+    - family-names: "Keßels"
+      given-names: "Isabelle"
+  year: 2026
+  url: "https://isabellekessels.github.io/taxonomy/"
+  license: CC-BY-4.0

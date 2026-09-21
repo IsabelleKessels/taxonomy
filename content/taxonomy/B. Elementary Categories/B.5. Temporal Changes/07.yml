@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Paradigmatic Lack of Knowledge to Paradigmatic Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+
+    At t~2~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+comments: []
+tokens:
+  - "Milk in the Fridge 9: Upon waking, Anna forms the false belief that there’s no milk in the fridge, because she misremembers finishing the carton yesterday night. In fact, half a carton remains. Entering the kitchen, she nonetheless looks into the fridge and sees a half empty carton of milk, she thus comes to believe that there is milk in the fridge after all."

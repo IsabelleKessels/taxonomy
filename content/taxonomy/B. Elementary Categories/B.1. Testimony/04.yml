@@ -1,0 +1,10 @@
+name: "Correct Reasoning From False Testimony"
+descriptions:
+  - |
+    q is false, but attester R believes that q based on [Misperception], [Misremembering] and/or [False Reasoning]. R asserts that q to S.
+
+    S believes that non-q based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. Correctly reasoning from the true premise that non-q and the fact that R asserted that q, S makes an inference about why R would falsely believe that q and forms the belief that p. p is true.
+comments:
+  - "Goldberg (2001) intuits about Pink Shirt: “I submit that […] this is a case in which George acquires TB [testimonially based; IK] knowledge from Martha’s false testimony.” (516.)"
+tokens:
+  - "Goldberg’s (2001) Pink Shirt: “Martha is a very reliable friend of George. George hears Martha talking about a party she attended last night. Speaking of what she saw there, Martha reports that Jones was wearing a pink T-shirt at the party. (Context makes it perfectly clear that Martha makes this judgement on the basis of an observation she made while at the party.) However, George happens to know that Jones was not at the party in question. (George was privy to Jones’ last-minute decision not to attend the party; Jones subsequently spent the entire evening in question with George.) George also knows that there are several people in town who are often mistaken for Jones (he is a rather regular-looking fellow). Still, none of George’s doubts on the score of whom Martha saw warrants any doubts in his mind on the score of Martha’s sincerity, nor does George doubt Martha’s observation regarding the colour of the T-shirt worn by the person in question (whoever that person was). Consequently George accepts Martha’s testimony in so far as this testimony includes the informational content that *someone or other* was wearing a bright pink T-shirt at the party. That is, having heard Martha’s testimony, George comes to believe that someone was wearing a bright pink T-shirt at the party.” (516.)"

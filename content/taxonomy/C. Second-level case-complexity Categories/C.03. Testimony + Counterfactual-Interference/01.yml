@@ -1,0 +1,8 @@
+name: "Counterfactual-Interference Affecting the Attester"
+descriptions:
+  - |
+    p is true, but attester R believes that p based on [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds]. R asserts that p, S believes that p based on this testimony. In general, R is a trustworthy and reliable attester and S has no delusional beliefs about what makes R trustworthy.
+comments: []
+tokens:
+  - "Demon Clock 3: Everything is as in Kelp’s (2009) Demon Clock 1 (see B.4., [Instrument Counterfactual-Interference in Modally Close non-p-Worlds]), except that, in this version, Russell asserts “It’s 8:22” to another person, Chris, upon reading the clock. Chris forms a true belief that it’s 8:22 based on this testimony."
+

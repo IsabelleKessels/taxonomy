@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Debunked Misleading Evidence – Gettiered to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+
+    At t~2~ p is true and S realises that one of the (explicit or implicit) premises S based the belief on at t~1~ is in fact mistaken. S gives up the belief that p and now believes that non-p. The matter of fact which makes the belief that p true at t~1~ persists at t~2~.
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Ford Barcelona Rejected 1: As in Gettier’s (1963) Ford Barcelona (B.2., [False Premise Gettier]), Smith gets a lift from Jones in a Ford. He forms the true belief ‘Either Jones owns a Ford, or Brown is in Boston’, which he bases on the false premise that Jones owns the Ford. He has no indication of Brown’s whereabouts and chose Boston at random. Just before getting dropped off, Smith notices a sticker on the dashboard, which states the name and contact details of a car rental service. Smith realises that the Ford must be a rental and that Jones probably doesn’t own it. Thereupon, Smith changes his mind and comes to believe it’s not the case that either Jones owns a Ford, or Brown is in Boston. In fact, however, Brown is in Boston, so his initial belief was true."

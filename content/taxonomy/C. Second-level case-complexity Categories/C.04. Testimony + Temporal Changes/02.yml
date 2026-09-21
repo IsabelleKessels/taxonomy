@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief: Successful Testimony Widening Receiver’s Evidential Base"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    At t~2~ p is true and S receives testimony that p by trustworthy and reliable attester R. Now S believes that p on the basis S had at t~1~ *and* [Successful Testimony].
+comments: 
+  - "Case-tokens of this [type] and [Change of Basis for Belief: Successful Testimony Pre-empting Receiver’s Evidential Base], are usually not discussed in terms of whether S *knows* (it’s presumed S does). Rather, armchair philosophers focus on whether S’s evidential base is simply widened by the [Successful Testimony], or whether this should override or ‘pre-empt’ S’s previous evidence base. Zagzebski (2012) defends that – given that R is an epistemic authority regarding p – their testimony should ‘pre-empt’ the previous evidence base; others (e.g., Jäger 2016 or Dormandy 2018) challenge her claim."
+tokens:
+  - "Dormandy’s (2017) Expert Botanist 1: “[Y]ou are taking a course on botany, a subject that you came to with no background knowledge. After a few days of having your perceptual and intellectual faculties trained by an authoritative botanist, you spot a fern shaped just so. This perceptual experience (or the belief that you had it) amounts to a reason *r* to believe that the plant is a Boston fern. Let us suppose that *r* suffices to believe that *p*. When you show your teacher a cutting, she confirms that it is indeed a Boston fern, thereby providing you with an additional reason: the authoritative reason *a*, to the effect that the authority believes that it is a Boston fern.” (9.)"

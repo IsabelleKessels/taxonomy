@@ -1,0 +1,12 @@
+name: "Counterfactual Absence of Sensory Help in p-Words"
+descriptions:
+  - |
+    In the @-world p is true, but S believes that p~1~ based on [Sensory Help]. 
+
+    In modally close possible worlds, p~1~ would be true and there would be an interference preventing the administering of [Sensory Help]. S would form a false belief that non-p~1~ (or another p-type belief, p~n~, where p~n~ would be false). based on [Sensory Hindrance] or [Misperception].
+comments: []
+tokens:
+  - |
+    Birdwatcher 10: Stefan is watching birds in the garden. He spots a small brown bird. Using binoculars to get a better look, he comes to believe that it’s a dunnock. The bird he has spotted is indeed a dunnock.
+
+    In close possible worlds, the dunnock would also be in the garden, and Stefan would spot the small brown bird. The binoculars wouldn’t be available, because his wife would be using them to observe a rose-ringed parakeet. Without the binoculars, Stefan would misperceive the dunnock for a female house sparrow, thereby forming a false belief about what kind of bird it is.

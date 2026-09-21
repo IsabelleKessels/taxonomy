@@ -1,0 +1,12 @@
+name: "Change of Basis for Belief: Persistent Misleading Evidence – Gettiered to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+    
+    At t~2~ p is true, but S believes that p based on a different instance of [False Premise Gettier], [Direct Gettier] or [Instrument Gettier] than at t~1~.
+
+    Unknown to S the misleading evidence which initially gettiered S remains in the environment between t~1~ and t~2~.
+comments: 
+  - "I hold that Cory’s basis of believing in Piggy Bank 3 changes between t~1~ and t~2~: At t~1~ he is gettiered through misperceiving the date stated on the 1938 coin. At t~2~ he’s gettiered through reasoning from the false premises that he put a 1938 coin into his piggy bank earlier that day and the correct assumption that that coin is still in there."
+tokens:
+  - "Piggy Bank 3: As in Starmans and Friedman’s (2012) Piggy Bank 2 (see [Change of Basis for Belief: Unnoticed Removal of Misleading Evidence – Gettiered to Gettiered]), “Corey has been collecting coins in his piggy bank for years. One day he is about to put a quarter in his piggy bank, and notices that it looks pretty old. Though he’s never paid attention to dates before, he reads the date and sees that it’s from 1936. However, he doesn’t realize that the date has partially rubbed off and it is really from 1938. There is already a quarter dated 1936 buried deep in his piggy bank, but Corey isn’t aware of this. He deposits the quarter and goes to take a nap. Corey’s roommate Scott comes home, and needs some change for the bus.” (282.) In this version, the 1938 quarter Cory just put in remains in the piggy bank. Later Scott wakes up and still believes that there is a coin from 1936 in his piggy bank."

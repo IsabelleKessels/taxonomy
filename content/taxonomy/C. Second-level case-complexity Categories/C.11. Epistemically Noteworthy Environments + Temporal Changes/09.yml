@@ -1,0 +1,12 @@
+name: "Change of Truth Value & Basis for Belief: Paradigmatic Lack of Knowledge to Unfriendly Environment"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment.
+
+    At t~2~ p is false, but S believes that non-p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+comments: []
+tokens:
+  - |
+    Broken Thermometers 7: As in Goldman’s (1986) Broken Thermometers 1 (see B.3., [Unfriendly Instruments Environment]), “there are many thermometers in the parent’s medicine cabinet, and all but […] one […] are defective. All others would read 98.6 even if the child had a fever. Furthermore, the parent cannot tell which thermometer is which[.]” (45.) In the morning, Hanne takes her child’s temperature using one of the defective thermometers. The thermometer displays 98.6, and Hanne therefore believes that her child doesn’t have a fever. This is false, her child actually has a temperature of 100.5 (for a child, this means it has a mild fever).
+
+    Feeling unsure, Hanne takes her child’s temperature again a couple of hours later, this time, coincidentally with the reliable thermometer. Her child broke the fever in the meantime, and its temperature is now down to 98.6. The thermometer displays 98.6, and Hanne continues to believe that her child doesn’t have a fever.

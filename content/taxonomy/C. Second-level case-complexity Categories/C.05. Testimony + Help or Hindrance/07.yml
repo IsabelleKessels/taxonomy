@@ -1,0 +1,7 @@
+name: "Direct Cognitive Hindrance Makes Attester Unreliable"
+descriptions:
+  - "Attester R is usually reliable and trustworthy. However, R forms a false belief that p based on [Direct Cognitive Hindrance]. R asserts that p, and S forms the false belief that p based on R’s testimony."
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Celtic Chat 14: Normally, Luke is reliable when it comes to football facts, however, a malicious demon interferes with Luke’s belief formation process: It sets him into a state of believing that Celtic *aren’t* playing tonight, even though this is not true. Having formed this false belief, Luke asserts it to Caitlin. Caitlin accepts his testimony and therefore forms the false belief that Celtic aren’t playing tonight. "

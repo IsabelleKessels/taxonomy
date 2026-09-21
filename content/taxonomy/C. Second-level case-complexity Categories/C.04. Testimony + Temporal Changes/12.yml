@@ -1,0 +1,13 @@
+name: "Change of Truth Value & Basis for Belief: False Testimony About Changed Truth Value"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on
+
+    - [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment, or
+    - [Successful Testimony] by attester T.
+
+    At t~2~ p is false. Another attester, R, asserts that p. S retains the belief that p.
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk in the Fridge 20: After breakfast, Anna puts a half empty milk carton in her fridge and (based on her accurate perception) believes there is now milk in the fridge. In the evening, she asks her flatmate whether there’s still milk in the fridge. He lies and says there is, despite finishing it. Anna forms the false belief that there’s still milk in the fridge."

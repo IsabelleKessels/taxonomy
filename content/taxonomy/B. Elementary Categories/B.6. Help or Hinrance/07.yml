@@ -1,0 +1,6 @@
+name: "Insufficient Indirect Cognitive Hindrance"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it decreases S’s reliability when forming beliefs about whether p by perception, memory or reasoning (e.g., by making S less attentive / alert). However, it doesn’t decrease S’s reliability sufficiently to prevent S forming the true belief that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]."
+comments: []
+tokens:
+  - "Flea Market 2: Lars visits a flea market. He dislikes crowds and, as the market is very busy, gets rather nervous and distracted. While looking through a stall’s merchandise he picks up a shirt. His attention is somewhat decreased, however, not enough that he doesn’t realise that the shirt is a dupe. "

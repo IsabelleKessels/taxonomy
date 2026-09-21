@@ -1,0 +1,10 @@
+name: "Sensory Hindrance Knowledge From Falsehood"
+descriptions:
+  - |
+    S believes that q based on [Sensory Hindrance]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true. 
+
+    The backup truth-maker for p is interdependent on the hindrance sufficing for S to from a false belief: In modally close worlds where this truth-maker wouldn’t be present and p would be false, S would not form the belief that q based on [Sensory Hindrance]. 
+comments: 
+  - "Light conditions only being sufficient for S gaining a false belief if the backup truth-maker is there, seems like a case of interdependency between hindrance and backup truth-maker – so I’d say this [case-type] has potential tokens and makes sense in its own right. It might, however, be a bit of a stretch to account for an interference with the ambience light as an interference with the perception process; if this is controversial, the case-token could instead be grouped with B.2., [Knowledge From Falsehood]."
+tokens:
+  - "As in Turri’s (2012) Blue Dress (see B.2., [Knowledge From Falsehood]), “Bill awaits Monica’s arrival. He wonders whether she’ll wear a scarlet dress. He hears a step on the staircase and swings around to see Monica enter the room. ‘What a dazzling indigo dress!’ he thinks and concludes, ‘Monica’s dress isn’t scarlet.’ And he’s right: her dress isn’t scarlet. But it isn’t indigo either.” (217.) In this version, suppose the dress is white but Monica is standing under a blue spotlight which makes the dress look indigo-blue. Would Monica wear a scarlet dress, the blue light wouldn’t suffice to make Bill misperceive the dress’s colour as indigo, he’d realise it’s some shade of red."

@@ -1,0 +1,9 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Emerging Misleading Evidence and Backup Truth-Maker – Paradigmatic Knowledge to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true and S believes p based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment.
+
+    At t~2~ p is false, but S believes non-p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+comments: []
+tokens:
+  - "Milk in the Fridge 24: While she’s having breakfast, Anna observes her flatmate emptying the milk carton and thus forms the true belief that there’s no milk in the fridge. Returning from work, looking into the fridge, she sees a milk container in its usual place and, based on this, believes that there’s milk in the fridge. What Anna doesn’t realise is that her flatmate placed the empty milk carton back in the fridge in the morning. This is the container that Anna is looking at. Nonetheless, her belief that there’s milk in the fridge is true, as her flatmate did also buy a fresh container. It’s placed in a part of the fridge where Anna hasn’t noticed it yet."

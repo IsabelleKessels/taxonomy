@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Emerging Misleading Evidence – Paradigmatic Lack of Knowledge to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning].
+
+    At t~2~ p is true, but S believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+comments: []
+tokens:
+  - "Sheep 6: As in Chisholm’s (1966/1989) Sheep 1 (B.2., [Direct Gettier]), a person is overlooking a field, and there is a sheep in the field, which is hidden from the person’s view. Initially, the person thinks that there are no sheep in the field. Then, a very fleecy dog trots onto the field. The person mistakes the dog for a sheep and now believes that there is a sheep in the field."

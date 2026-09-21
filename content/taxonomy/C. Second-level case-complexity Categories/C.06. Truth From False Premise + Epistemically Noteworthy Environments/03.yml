@@ -1,0 +1,7 @@
+name: "Gettiered in Unexpected Regularity Environment"
+descriptions:
+  - "S is in an environment that features a regularity: whenever there is evidence for q~1~ (or another q-type proposition, q~n~), this (typically, or inevitably) means that p is true. Therefore, evidence for q~1~ constitutes suitable evidence for p in this environment. q~1~ is true, but S misperceives the matter of fact described by q~1~ to the effect that it seems to S as if p. Thus, S forms the belief that p. p is indeed true, as p is (typically, or inevitably) true whenever q~1~ is true in the given environment. S is unaware of both the regularity and the fact that q~1~ is true. "
+comments: 
+  - "Miracchi (2015) intuits about Hard-Working Sheepdog: “Anette […] doesn’t know.” (33.)"
+tokens:
+  - "Miracchi’s (2015) Hard-Working Sheepdog: “Annette is taking a walk through the countryside. Looking at what seems to her to be a sheep in the field, she forms the belief that there is a sheep in the field on the basis of her perceptual experience. In fact it is a sheepdog, but there is a sheep standing behind a rock, out of view, that the dog is keeping track of. Unbeknownst to Annette, she is in hard-working sheepdog country, in which it is very rare for a sheepdog to be in a field unless it is keeping close watch on its sheep.” (33.)"

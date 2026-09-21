@@ -1,0 +1,35 @@
+{{ define "frontmatter" }}
+<div class="masthead space">
+  <h1 class="masthead__title">
+    {{ .Params.id }}.
+    <span style="font-variant-caps: all-small-caps">{{ .Title }}</span>
+  </h1>
+</div>
+{{ end }}
+
+{{ define "content" }}
+{{ with .Content }}
+  <section class="grid grid--default-all">
+    {{ . }}
+  </section>
+{{ end }}
+
+{{ range .Resources.Match "*.yml" }}
+  {{ $entry := transform.Unmarshal . }}
+  <details {{ if $entry.open }}open="true" {{ end }} class="grid__span-all">
+    <summary class="heading2 space">[{{ $entry.name }}]</summary>
+    <div
+      class="grid grid--default-small grid--align-start space"
+      style="gap: calc(1rem * var(--baseline))"
+    >
+      {{ partial "render-entry.html" (dict "page" $.Page "data" $entry.descriptions) }}
+      {{ partial "render-entry.html" (dict "page" $.Page "data" $entry.tokens) }}
+      {{ partial "render-entry.html" (dict "page" $.Page "data" $entry.comments) }}
+    </div>
+  </details>
+{{ end }}
+{{ end }}
+
+{{ define "backmatter" }}
+{{ partial "render-fns" . }}
+{{ end }}

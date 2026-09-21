@@ -1,0 +1,13 @@
+name: "Unknown Regularity Triggers Direct Cognitive Hindrance"
+descriptions:
+  - |
+    S is in an environment that features a regularity: whenever there is evidence for q~1~ (or another q-type proposition, q~n~), this (typically, or inevitably) means that p~1~ (or another p-type proposition, p~n~) is true. Moreover, whenever S forms the belief q~1~ (or a belief in q~n~), some factor intervenes and influences S’s normal belief-formation processes. It sets S into a state of believing that non-p~1~ (or non-p~n~), although this is false.
+
+    S is unaware of this regularity. S forms the belief that q~1~ and then, based on the [Direct Cognitive Help] comes to believe that non-p~1~, which is false.
+comments: 
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - |
+    Bug in a Box 2: Ludwig is unaware that he has entered an area where there is a peculiar regularity. All boxes in this area contain at least one bug (next to various other things). If one is aware of this regularity, seeing a box in this area is sufficient evidence to conclude that there’s a bug inside it.
+
+    Moreover, the area is also haunted by a malicious demon: It sets visitors into a state of believing “there’s no bug inside this” whenever they notice a box. Ludwig sees a box and suddenly finds himself believing “there’s no bug inside this.” 

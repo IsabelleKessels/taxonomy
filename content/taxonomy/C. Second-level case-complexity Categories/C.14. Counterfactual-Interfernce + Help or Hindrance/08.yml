@@ -1,0 +1,12 @@
+name: "Counterfactual Absence of Direct Cognitive Help in p-Words"
+descriptions:
+  - |
+    In the @-world p~1~ is true, but S believes that p~1~ based on [Direct Cognitive Help].
+
+    In modally close possible worlds, p~1~ would be true and there would be an interference preventing the administering of [Direct Cognitive Help]. S would form a false belief that non-p~1~ (or another p-type belief, p~n~, where p~n~ would be false) based on
+
+    - [Direct Cognitive Hindrance], or 
+    - [Misperception], [Misremembering] and/or [False Reasoning].
+comments: []
+tokens:
+  - "Truetemp’s Counterfactual Malfunction 2: Same set-up as Truetemp’s Counterfactual Malfunction 1 (see [Counterfactual Absence of Direct Cognitive Help in non-p-Words]); however, in this version, the electromagnet, if it were switched on, would interfere with the reliability of Truetemp’s device, so that it wouldn’t send accurate messages to his brain, but it would leave the room temperature uninfluenced. In the @ world the temperature is 104 degrees, the electromagnet is switched off, and Truetemp believes that the temperature is 104 degrees. However, if the electromagnet were switched on, the temperature would be 104 degrees but the device would send the message to Truetemp that it’s 105 degrees. Truetemp would gain a false belief."

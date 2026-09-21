@@ -1,0 +1,8 @@
+name: "Cognitive Outlier"
+descriptions:
+  - "S believes that p based on a reliable cognitive process that is not properly integrated with S’s other belief-formation processes. S’s cognitive process is not induced by some external factor or malfunction in S’s brain."
+comments:
+  - "I borrow the term ‘cognitive integration’ from Greco (2010): “[O]ne aspect of cognitive integration concerns the range of outputs – if the clairvoyant beliefs are few and far between, and if they have little relation to other beliefs in the system, then the power of clairvoyance is less well integrated on that account. Another aspect of integration that we noted is sensitivity to counterevidence.” (154.)"
+  - "BonJour (1980) intuits about Clairvoyant: “Is Norman epistemically justified in believing that the President is in New York City, so that his belief is an instance of knowledge? […] I submit, Norman’s acceptance of the belief about the President’s whereabouts is […] unjustified[.]” (62f.)"
+tokens:
+  - "BonJour’s (1980) Clairvoyant: “Norman, under certain conditions that usually obtain, is a completely reliable clairvoyant with respect to certain kinds of subject matter. He possesses no evidence or reasons of any kind for or against the general possibility of such a cognitive power, or for or against the thesis that he possesses it. One day Norman comes to believe that the President is in New York City, though he has no evidence either for or against this belief. In fact the belief is true and results from his clairvoyant power, under circumstances in which it is completely reliable.” (62.)"

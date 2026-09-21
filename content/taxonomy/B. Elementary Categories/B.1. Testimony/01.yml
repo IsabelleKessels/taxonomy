@@ -1,0 +1,9 @@
+name: "Successful Testimony"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that p: p is true and S forms the belief that p based on this testimony. S has no delusional beliefs about what makes R trustworthy and reliable."
+comments:
+  - "Wright (2010) investigated Chemistry Professor in her x-phi study and reports: “Participants dominantly attributed knowledge […] (84–87%)[.]” (496.) Her experiment had a relatively small sample size of n = 181 (496)."
+tokens:
+  - "Wright’s (2010) Chemistry Professor: “Karen is a distinguished professor of chemistry. This morning, she read an article in a leading scientific journal that mixing two common floor disinfectants, Cleano Plus and Washaway, will create a poisonous gas that is deadly to humans. In fact, the article is correct: mixing the two products does create a poisonous gas. At noon, Karen sees a janitor mixing Cleano Plus and Washaway and yells to him, ‘Get away! Mixing those two products creates a poisonous gas!’” (502.)"
+  - "Celtic Chat 1: Luke asserts “Celtic are playing tonight” to Caitlin. Caitlin knows that Luke carefully follows sporting events and takes his assertion to be reliable. Based on this, she forms the belief that Celtic are playing tonight – which is true."
+  - "Kittiwake Chat: Dan asserts to Luke: “There is a kittiwake on the clothesline.” There is indeed a kittiwake on the clothesline. Luke, knowing that Dan is a hobby ornithologist and therefore a reliable source on this matter, forms the belief that the bird on the clothesline is a kittiwake."

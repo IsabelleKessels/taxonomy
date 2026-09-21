@@ -1,0 +1,14 @@
+name: "Change of Truth Value & Basis for Belief: False Testimony Vindicated"
+descriptions:
+  - |
+    At t~1~ p is true, but an attester R asserts that non-p to S. S believes that non-p based on this [False Testimony].
+    At t~2~ p is false and S gathers additional evidence in regards to p. Now S believes that non-p based on R’s [False Testimony] *and*
+
+    - [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives or remembers in the moment, or
+    - [Successful Testimony] by a second attester T,
+
+    insofar as the second basis is independent of the [False Testimony] received at t~1~.
+comments:
+  - "If the additional basis for S’s belief at t~2~ weren’t independent of the [False Testimony] at t~1~ (e.g., because it is S’s memory of R’s [False Testimony] and the [False Reasoning] that if R said that non-p at t~1~ and the assumption that it’s truth value won’t have changed) the case would involve the complicating factor of {{< sc >}}Truth From False Premise{{< /sc >}}because S would have gained a true belief based on reasoning from false premises."
+tokens:
+  - "Milk in the Fridge 21: Anna asks her flatmate whether there’s any milk left, and he falsely attests that there isn’t. After Anna leaves for work, he takes out the milk carton, which he had hidden behind some food containers, and uses it for his coffee. There is now no milk in the fridge. When she returns, Anna looks into the fridge to check that there really is no milk; even rearranging items to see whether a carton of milk is hidden behind them. Since she finds no milk, she retains the belief that there’s none in the fridge."

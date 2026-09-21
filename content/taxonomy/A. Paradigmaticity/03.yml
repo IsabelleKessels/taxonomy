@@ -1,0 +1,10 @@
+name: "Correct Reasoning From True Premises"
+descriptions:
+  - "p is true and S beliefs that p, because S correctly reasoned from true premises that p."
+comments:
+  - |
+    I presume that tokens of this [type] amount to paradigmatic cases of *knowledge*.
+
+    I take [Correct Reasoning From True Premises] to cover instances where S reads a reliable instrument which says “p,” p is true, and S judges that p based on the premise that the instrument is reliable; analogously, [False Reasoning] (see below) covers instances where S reads an unreliable instrument indicating “p,” p is false, but S judges that p based on the false premise that the instrument is reliable. See also the introduction to B.2., fn. 4, for a more detailed comment on how I include cases involving the use of instruments in this taxonomy.
+tokens:
+  - "Mouse in the Room 1: Luke believes that a mouse was in the room, because he discovered mouse droppings in the corner. His reasoning is valid and his belief is true."

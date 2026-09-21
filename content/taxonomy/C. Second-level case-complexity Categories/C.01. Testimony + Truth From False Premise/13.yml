@@ -1,0 +1,10 @@
+name: "Receiver of False Testimony Gains Knowledge From Falsehood"
+descriptions:
+  - |
+    q is false, but attester R asserts that q. S believes that q based on this testimony. q (deductively, inductively, or abductively) entails that p. Based on this entailment between q and p, S forms the belief that p. There is a backup truth-maker for p, so p happens to be true.
+
+    The backup truth-maker for p is interdependent on the presence of the misleading evidence for q: In modally close worlds where this truth-maker wouldn’t be present and p would be false, S would not form the belief that q based on R’s [False Testimony], because R wouldn’t attest this.
+comments:
+  - "Klein (2008) about Santa Clause: “[I]it is plausible to believe that at least some people will take it to be a case of a false belief producing knowledge.” (38.)"
+tokens:
+  - "Klein’s (2008) Santa Clause: “Mom and Dad tell young Virginia that Santa will put some presents under the tree on Christmas Eve. Believing what her parents told her, she infers that there will be presents under the tree on Christmas morning. She knows that.” (37.)"

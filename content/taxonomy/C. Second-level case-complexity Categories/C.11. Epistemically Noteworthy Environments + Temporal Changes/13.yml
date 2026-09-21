@@ -1,0 +1,12 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Unfriendly Environment to Unfriendly Environment"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    At t~2~ p is false, but S believes that non-p based on a different instance of [Unfriendly Environment] or [Unfriendly Instruments Environment] than at t~1~.
+comments: []
+tokens:
+  - |
+    Broken Thermometers 9: As in Goldman’s (1986) Broken Thermometers 1 (see B.3., [Unfriendly Instruments Environment]), “there are many thermometers in the parent’s medicine cabinet, and all but […] one […] are defective. All others would read 98.6 even if the child had a fever. Furthermore, the parent cannot tell which thermometer is which[.]” (45.) In the morning, Hanne takes her child’s temperature, coincidentally with the reliable thermometer. It displays 100.5, and Hanne comes to believe that her child has a fever, which is true.
+
+    The next morning, Hanne checks the temperature once more. As it so happens, she, again, picks the reliable thermometer. It displays 98.6, and Hanne comes to believe that her child doesn’t have a fever anymore, which is true.

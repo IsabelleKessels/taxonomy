@@ -1,0 +1,14 @@
+name: "Change of Basis for Belief: Successful Testimony Confirmed"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Successful Testimony] given by R. 
+
+    At t~2~ p is true and S encounters further suitable evidence for p: Now S believes that p based on both R’s testimony and on
+
+    - [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises], or
+    - [Successful Testimony] by another attester T.
+comments: 
+  - "Case-tokens like this [type] are usually not discussed in terms of whether S *knows* (it’s presumed S does). Rather, armchair philosophers focus on how additional evidence contributed to S’s overall justification for believing p (see also [Change of Basis for Belief: Successful Testimony Widening Receiver’s Evidential Base] and [Change of Basis for Belief: Successful Testimony Pre-empting Receiver’s Evidential Base])."
+tokens:
+  - "Dormandy’s (2017) Windowless Office: “You work in a windowless office, and your colleague Carlo testifies that it is raining, saying that he saw your other colleague Carla come in drenched from outside. You duly form the belief that it is raining. Shortly thereafter you run into Carla herself, who is indeed wet and who tells you that it is raining. At this point it is appropriate to become even more confident in rain, since Carla, having actually been outside, is a more reliable witness than Carlo, who simply inferred rain from seeing Carla.” (9.) "
+  - "Celtic Chat 5: Luke asserts “Celtic are playing tonight” to Caitlin. Caitlin knows that Luke carefully follows sporting events and takes his assertion to be reliable. Based on this, she forms the belief that Celtic are playing tonight – which is true. Later that day Caitlin turns on the radio and hears live commentary to a Celtic game. "

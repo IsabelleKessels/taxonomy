@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief & Doxastic Attitude: False Testimony Rejected for Unsuitable Reason"
+descriptions:
+  - |
+    At t~1~ p is true, but an attester R asserts to S that non-p. S believes non-p based on this [False Testimony]. 
+
+    At t~2~ p is true and S abandons the belief that non-p based on R’s testimony and forms the belief that p based on [Unsuitable Reason].
+comments: []
+tokens:
+  - "Celtic Chat 7: Luke asserts “Celtic are playing tonight” to Caitlin. For some reason Luke is mistaken and Celtic are not playing tonight, Caitlin nonetheless initially believes his testimony. She’s not happy about it, though, because one of her favourite players is still suspended. Later that evening, and despite Luke’s testimony, she forms the belief that Celtic aren’t playing based on wishful thinking."

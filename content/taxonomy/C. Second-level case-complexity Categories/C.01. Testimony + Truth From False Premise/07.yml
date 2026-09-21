@@ -1,0 +1,20 @@
+name: "Receiver Bases Trust in Reliable Attester on False Premise"
+descriptions:
+  - |
+    q is false, but S believes that q based on
+  
+    - [Misperception], [Misremembering] and/or [False Reasoning], or 
+    - [False Testimony], [Unsuccessful Testimony], [Testimony-Based False Implication] involving a different attester T.
+    
+    q is a belief about attester R which, if true, would entail that R is trustworthy and reliable in regards to whether p. Based on believing q, S forms the belief that R is a trustworthy reliable attester regarding p (without further evidence or counterevidence regarding whether R is an adequate source of information). 
+    
+    As it so happens, R is indeed trustworthy and reliable. p is true and R asserts that p. S believes that p based on R’s testimony and the false belief that q.
+comments: 
+  - |
+    This [case-type] differs from [Irrational Receiver], in that S’s belief for *why* R is a trustworthy attester is based on a justified but false premise, rather than being based on [Unsuitable Reason] (compare B.1., [Irrational Receiver]). I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type].
+    
+    I didn’t involve the term *‘gettiering’* here, because I suspect this set-up doesn’t allow for sufficient independence between R’s being a trustworthy and reliable attester and S’s misleading evidence for q, upon which S bases their trust: S’s evidence pertains to R specifically, so in possible worlds where it’s present, S would believe R to be trustworthy. If R genuinely is a trustworthy and reliable attester in regards to p, they would attest the truth in close possible worlds as well, unless we involve the further complicating factor of a {{< sc >}}Counterfactual-Interference{{< /sc >}} (compare C.3 [Blameless Counterfactually False Testimony] for an example of such an attester). Thus, under the current specifications, there are no close possible worlds in which R would assert a falsehood about p and would therefore become unreliable or untrustworthy. 
+    
+    If the misleading evidence would apply not only to R but also to another potential attester U, who is unreliable, we’d have ended up with a case involving another complication, namely {{< sc >}}Epistemically Noteworthy Environments{{< /sc >}} (compare C.2 [Unfriendly Environment for Accepting Testimony] for an example of an environment featuring unreliable attesters that S could have asked but doesn’t in the @ world)."
+tokens:
+  - "Fortunate Mix-up: Bennet attends a concert by a band he likes. He believes to have spotted the lead guitarist at the merch stand and approaches her to ask when the band will release their next record, correctly inferring that the guitarist would be a reliable source of information on this matter. The woman responds that the next album will be dropped next year. Bennet is not aware that the woman he approached is actually not the band’s guitarist, but their booker. However, the booker is a reliable attester to the band’s release schedule."

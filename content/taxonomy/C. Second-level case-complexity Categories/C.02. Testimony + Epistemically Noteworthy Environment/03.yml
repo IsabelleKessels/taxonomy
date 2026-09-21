@@ -1,0 +1,7 @@
+name: "Irrational Receiver in Unfriendly Environment"
+descriptions:
+  - "Unknown to S, S is in an environment featuring agents who would give false testimony regarding p. By chance, S receives testimony from a trustworthy and reliable attester, R, who asserts that p, which is true. Based on this testimony, S forms the belief that p, but S is an [Irrational Receiver], i.e., S’s judgement that R’s testimony can be trusted is based on [Unsuitable Reason]."
+comments:
+  - "Goldberg (2007b) intuits about Gullible in Room Full of Liars: “[I]t seems patent that Sid does not know that p through her testimony.” (209f.)"
+tokens:
+  - "Goldberg’s (2007b) Gullible in Room Full of Liars: “Sid is gullible in the extreme: he accepts anything anyone says merely in virtue of the fact that someone said so. Sid is in a room full of inveterate liars. He immediately and uncritically believes everything each of them says. At one point he happens to bump into Nancy, the only reliable person around. Nancy reliably tells Sid that p, and (as a matter of course) he believes her. Even so, it seems patent that Sid does not know that p through her testimony.” (209f.)"

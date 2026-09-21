@@ -1,0 +1,16 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Paradigmatic Lack of Knowledge to Counterfactual-Interference"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on [Misperception], [Misremembering] and/or [False Reasoning]. 
+
+    At t~2~ p is true, but S believes that p based on [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds].
+comments: 
+  - |
+    To make Counterfactually Fake Video Call 9 conform with the [case-type], p must include a negation: 
+    
+    p = “Ben is *not* on a video call.”; non-p = “It’s *not* the case that Ben is *not* on a video call.” = “Ben is on a video call.”
+tokens:
+  - |
+    Counterfactually Fake Video Call 9: As in Keßels et al.’s (2026) Counterfactually Fake Video Call 1 and 2 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds] and [-p-Worlds]), “Judy wants to talk to her line manager Ben. Approaching his workspace, Judy sees that Ben is talking into his headset and that a video call app is opened on his laptop.” (n.pag.) She forms the belief that Ben is on a video call. “What Judy doesn’t realise is that Ben was determined to avoid talking to Judy at all costs. To deter Judy from addressing him, Ben had planned to fake being on a video call with Sara.” (n.pag.) In this version, Ben is faking the video call, so Judy’s belief is false. He knew Judy was approaching, because he recognised the sound of her footsteps (Judy usually wears high heels, which click distinctively), giving him enough time to set up the fake video call.
+
+    The following day, Judy approaches Ben’s workspace again. Ben doesn’t realise this because she is wearing trainers. On reaching his workspace Judy sees that Ben is not on a video call. Had she opted for her usual high heels when getting dressed that morning (which she almost did), Ben would have heard her and faked another video call. Judy would have falsely come to believe that Ben is on a video call.

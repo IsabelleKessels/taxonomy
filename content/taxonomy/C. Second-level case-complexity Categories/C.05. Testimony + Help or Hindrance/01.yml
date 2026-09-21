@@ -1,0 +1,6 @@
+name: "Unsuccessful Transmission Rectified by Direct Cognitive Help"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that p: p is true. S would have misunderstood R’s testimony (because external factors influence the transmission, S is inattentive, etc.) if it weren’t for some factor influencing S’s normal belief-formation processes, setting S into a state of believing that R attested p. S forms the belief that p, based on believing that R attested this."
+comments: []
+tokens:
+  - "Celtic Chat 8: Talking on the phone to discuss the ideal formation of tonight’s match, Luke truthfully asserts to Caitlin: “Cameron Carter-Vickers has recovered from his injury.” Due to a bad phone connection, Caitlin almost would have misheard him and come to believe that Cameron Carter-Vickers *hasn’t* recovered from his injury. However, a benevolent demon, who wants to ensure that Caitlin only forms true beliefs about her favourite football club, interferes with Caitlin’s belief formation process, setting her into a state of believing that Luke attested that “Cameron Carter-Vickers has recovered from his injury,” which Luke has and which is true. Caitlin accepts his testimony."

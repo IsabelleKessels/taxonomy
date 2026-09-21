@@ -1,0 +1,15 @@
+name: "Knowledge From Falsehood"
+descriptions:
+  - |
+    S believes that q based on [Misperception], [Misremembering] and/or [False Reasoning]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p is true.
+
+    The backup truth-maker for p is interdependent on the presence of the misleading evidence for q: In modally close worlds where this truth-maker wouldn’t be present and p would be false, S would not form the belief that q based on [Misperception], [Misremembering] and/or [False Reasoning].
+comments:
+  - "Warfield (2005) intuits about Handouts: “I know my conclusion.” (408)."
+  - "Klein (2008) intuits about Average Rainfall: “[I]t is plausible to believe that at least some people will take it to be a case of a false belief producing knowledge.” (38)."
+  - "Turri (2012) intuitions about Blue Dress: “Intuitively Bill knows that Monica’s dress isn’t scarlet.” (37) He including Blue Dress in his (2019) empirical study. Collapsing the results on this case and the Gebril case, and comparing them with results on cases where the premise is true (the dress in question is (indigo) blue and the gift in question is a gerbil) he reports: “Paired samples t-tests revealed that mean attribution of premise knowledge and conclusion knowledge did not differ in the true–true condition, t(80) = 0.00, p= 1, or in the false–false condition, t(78) = 0.82, p= .418.” (171.) More specifically, on a Likert Scale from 1 to 7, where 7 indicated the attribution of knowledge, the mean response for Blue Dress was 6.08 (n = 40; SD = 1.66) and for Gebril 5.57 (n = 40; SD = 1.80) (177)."
+tokens:
+  - "Warfield’s (2005) Handouts: “Counting with some care the number of people present at my talk, I reason: ‘There are 53 people at my talk; therefore my 100 handout copies are sufficient’. My premise is false. There are 52 people in attendance – I double counted one person who changed seats during the count.” (407f.)"
+  - "Klein’s (2008) Average Rainfall: “Weatherman believes that the average annual precipitation in Northwest Montana is about 13 inches because he believes that accurate records have been kept for over eighty years and the rainfall depicted in the number of years that records were kept averages to 13 inches. The average rainfall is about 13 inches, but accurate records were kept for only seventy-nine years. Weatherman 2 knows that the average rainfall is about 13 inches.” (37.)"
+  - "Turri’s (2012) Blue Dress: “Bill awaits Monica’s arrival. He wonders whether she’ll wear a scarlet dress. He hears a step on the staircase and swings around to see Monica enter the room. ‘What a dazzling indigo dress!’ he thinks and concludes, ‘Monica’s dress isn’t scarlet.’ And he’s right: her dress isn’t scarlet. But it isn’t indigo either. It’s ultramarine.” (217.)"
+  - "Turri’s (2019) Gebril: “For her birthday gift, Michelle expects that her parents will give her a baby gerbil. When she opens the gift, it looks like a baby gerbil. […] But it is a baby mouse, which is a member of the rodent family. […] Michelle says, ‘Gerbils are rodents, so it is a rodent.’” (170.)"

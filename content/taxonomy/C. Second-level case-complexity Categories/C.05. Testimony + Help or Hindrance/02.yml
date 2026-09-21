@@ -1,0 +1,6 @@
+name: "Unsuccessful Transmission Rectified by Indirect Cognitive Help"
+descriptions:
+  - "A trustworthy and reliable attester, R, asserts that p: p is true. Some factor influences S’s cognitive states such that it increases S’s reliability when forming beliefs about whether p based on testimony (e.g., by making S more attentive / alert). Without the factor’s influence S would have misunderstood R’s testimony."
+comments: []
+tokens:
+  - "Celtic Chat 9: Talking on the phone to discuss the ideal formation of tonight’s match, Luke truthfully asserts to Caitlin: “Cameron Carter-Vickers has recovered from his injury.” If Caitlin hadn’t had her morning coffee yet, she’d be too tired to properly concentrate on the conversation. She would have misheard and come to believe that Cameron Carter-Vickers *hasn’t* recovered from his injury. However, she’s had her coffee and thus is sufficiently attentive and forms a true belief based on Luke’s testimony."

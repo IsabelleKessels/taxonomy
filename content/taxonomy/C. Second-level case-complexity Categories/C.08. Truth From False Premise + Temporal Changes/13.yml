@@ -1,0 +1,10 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Gettiered to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier].
+
+    At t~2~ p is false, but S believes non-p based on a different instance of [False Premise Gettier], [Direct Gettier] or [Instrument Gettier] than at t~1~.
+comments: 
+  - "This is an adaptation of Goldman’s 1986 Broken Thermometers 1, subsumed under B.3., [Unfriendly Instruments Environment]. The present token avoids the complicating factor of {{< sc >}}Epistemically Noteworthy Environments{{< /sc >}} while introducing two other complicating factors."
+tokens:
+  - "Broken Thermometers 3: Hanne takes her child’s temperature using a defective thermometer, which sometimes shows the right temperature, but often displays a temperature in the range of plus or minus 3 degrees of what the actual temperature is. The thermometer displays 100.9, and Hanne therefore believes that her child has a fever. Her child’s temperature actually is 100.5, but, given this, Hanne’s belief is nonetheless true. A couple of days later, Hanne takes the temperature again. The thermometer displays 97.9, her child’s temperature actually is 98.6, but Hanne forms the true belief that it doesn’t have a fever anymore."

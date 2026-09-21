@@ -1,0 +1,18 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Truth Value Changes but Receiver’s Belief Remains False"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on
+
+    - [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment, or
+    - [False Testimony], [Unsuccessful Transmission] or [Testimony-Based False Implication] by attester R.
+
+    At t~2~ p is false, but S abandons the belief that non-p and now believes that p based on a different instance of
+
+    - [Misperception] and/or [False Reasoning] relating to what S perceives or remembers in the moment, or
+    - [False Testimony], [Unsuccessful Transmission] or [Testimony-Based False Implication] by attester R.
+
+    The belief at t~1~, the belief at t~2~, or both involve testimony.
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Milk in the Fridge 23: In the morning, Anna runs into her flatmate. He informs Anna: “I finished the milk. I’ll buy more later.” Anna forms the belief that there’s no milk in the fridge, but this is false: In fact, there is a little bit of milk left. Her flatmate lied, so he could have it in his coffee. Returning from work, she looks into the fridge and spots a milk carton, but doesn’t pick it up. She forms the belief that there is now milk in the fridge. In fact, her flatmate put the empty carton back into the fridge. Anna’s belief is therefore false."

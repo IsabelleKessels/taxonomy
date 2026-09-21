@@ -1,0 +1,13 @@
+name: "Unexpected Regularity Environment"
+descriptions:
+  - |
+    S is in an environment that features an unexpected regularity: whenever there is evidence for q~1~ (or another q-type proposition, q~n~), this (typically, or inevitably) means that p~1~ (or another p-type proposition, p~n~) is true. Therefore, evidence for q~1~ constitutes good evidence for p~1~ in this environment.
+
+    S holds the belief that q~1~ based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]; yet, since S is unaware of the regularity, S holds no belief in regards to p~1~’s truth value.
+comments:
+  - "Since S holds no belief about p~1~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge* that p~1~."
+tokens:
+  - |
+    Coffee and Biscuits: Archie has just moved in with Lottie. Archie wants to have some biscuits and a hot drink in the afternoon. He decides to make a tea instead of a coffee. He picks up the cookie jar and notices that there is still a decent number of biscuits left.
+
+    Lottie has a peculiar habit: She only has coffee if she can also have a biscuit with it. Whenever she runs out of biscuits, she gets rid of any coffee beans left in the flat by gifting them to her neighbours. Moreover, she always buys her biscuits and coffee at the same time. Thus, whenever there are biscuits in the flat, there will also be coffee. Since Archie isn’t aware of this habit, he forms no belief about whether there are coffee beans in the flat, based on seeing the biscuits.

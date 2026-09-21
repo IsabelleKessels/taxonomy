@@ -1,0 +1,10 @@
+name: "Counterfactual-Interference in Modally Close p-Worlds"
+descriptions:
+  - |
+    In the @-world p~1~ is true and S believes that p~1~ based on [Clear Perception] and/or [Correct Reasoning From True Premises] relating to what S perceives in the moment.
+
+    In modally close possible worlds, p~1~ would be true, but there would be an interference with S’s evidence, making it seem to S as if non-p~1~ (or as if another p-type proposition, p~n~, where this would be false), so that S would falsely believe that non-p~1~ (or p~n~).
+comments:
+  - "I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but there are tokens of second-level complexity [case-types] combining this set-up with [False Testimony]: Like Comesaña’s (2005) Halloween Party Coin Flip, see C.3., [Deliberate Counterfactually False Testimony]."
+tokens:
+  - "Counterfactually Fake Video Call 2: As in Keßels et al.’s (2026) Counterfactually Fake Video Call 1 (see [Counterfactual-Interference in Modally Close non-p-Worlds]), line manager Ben sometimes tries to avoid conversations with his employee Judy, and is prepared to fake being on a video call to appear busy. In this version, Ben usually knows when Judy’s approaching because he recognises the sound of her footsteps (Judy usually wears high heels, which click distinctively), giving him enough time to set up the fake video call. Today, however, Ben doesn’t realise Judy is approaching because she is wearing trainers. On reaching his workspace, Judy sees that Ben is not on a video call. Had she opted for her usual high heels when getting dressed that morning (which she almost did), Ben would have heard her and faked the video call. Judy would have falsely come to believe that Ben is on a video call."

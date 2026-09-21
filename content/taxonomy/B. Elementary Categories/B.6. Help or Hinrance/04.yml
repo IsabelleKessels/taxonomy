@@ -1,0 +1,22 @@
+name: "Indirect Cognitive Help"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it increases S’s reliability when forming beliefs about whether p by perception, memory or reasoning (e.g., by making S more attentive / alert). This enables S to form the true belief that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]."
+comments:
+  - |
+    Vaesen (2011) intuits about Baggage Check: “Sissi *knows* about the bomb[.]” (523.)
+
+    One might ask whether SYSTEM~2~ amounts to a token of [Counterfactual-Interference in non-p-Worlds], because there are modally close possible worlds in which non-p (the bag would not contain a bomb) but the evidence presented to S would be identical to that in the @-world (an x-ray image of a bomb). On this interpretation, the case would have to be grouped under C.14., but I hold that this isn’t fitting: Sissy is aware how the SYSTEM~2~ works. Although Vaesen (2011) doesn’t specify this, I would assume that this means that Sissy doesn’t form the belief that p (that there is a bomb in the bag) until she clicks on the image and the usual ‘False Alarm’-message doesn’t appear. This would imply that Sissy *wouldn’t form the belief that p* in modally close non-p-worlds, because the ‘False Alarm’ message would appear in those worlds.
+  - |
+    I suspect the evaluation of case-tokens can swing either way, depending on:
+
+    -	how reliable S is at the task in question without the helping factor;
+    -	how much the helping factor improves S’s reliability.
+
+    Thus, [sub-types] may need to be formulated.
+tokens:
+  - |
+    Vaesen’s (2011) Baggage Check: “The e-cog scenario developed in this section takes its cue from a book titled *The human factor* (2003) by cognitive engineer Kim Vicente, and concerns airport security, in particular the X-ray scanners used for baggage inspection. Such scanners make the life of inspectors easier in a way (no need to open up and check the inside of every piece of luggage), but also more tedious and demanding. […] operators typically have to stare for ling uninterrupted periods of time at a monitor showing unsuspicious (and boring) goods […]. Under such conditions, people’s vigilance decreases dramatically; after half an hour, performance drops by almost 59% (ibid., p. 138.)
+
+    The solution (implemented worldwide after 9/11) relates to the fact that people remain more attentive if ‘false signals’ are introduced periodically. In case of baggage scanners, these false signals are images of illegal objects superimposed on the actual images of the suitcases projected on screen. The false positives wake up the inspectors, and stimulate them to remain alert.
+
+    Suppose, now, that SYSTEM~1~ is an ordinary pre-9/11 baggage scanner, whereas SYSTEM~2~ is a post-9/11 upgrade, including a ‘false signal’ engine. Whenever SYSTEM~2~ projects a false image and the operator notices (she informs the system by, say, clicking on the image), the following message pops up: ‘False alarm: you were being tested!’ If no message appears, the operator knows the treat is real. […] Sissi has been a baggage inspector all her life. She used to work with an old-fashioned SYSTEM~1~, but since 9/11, the airport she is working for introduced SYSTEM~2~ Her supervisor Joseph […] informed her how it works […]. Currently, Sissi is inspecting a piece of luggage which contains a bomb. She notices and forms a true belief regarding the contents of the suitcase. As such, the bomb is intercepted and a catastrophe prevented from happening. […] [T]he relevant counterfactual is Sissi using […] SYSTEM~1~, resulting, we may reasonably suppose, in her failing to notice the bomb[.]”(522f.)

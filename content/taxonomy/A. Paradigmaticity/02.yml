@@ -1,0 +1,10 @@
+name: "Accurate Memory"
+descriptions:
+  - "p is true and S beliefs that p, because S accurately remembers that p."
+comments:
+  - |
+    I presume that tokens of this [type] amount to paradigmatic cases of _knowledge_.
+
+    This [type] should only cover instances where the agent believes a fact about the past they experienced first-hand. A case like ‘Veronika believes that her keys are *now* on the table, because she remembers putting them there.’ should be grouped under [Correct Reasoning From True Premises] instead, as it’s an inferred belief: Her belief that she placed the keys on the table *in the morning* (an instance of [Accurate Memory]) functions as a correct premise, together with the premise that it’s unlikely that they have since been moved. As for facts about the past S has not experienced first-hand: I presume that S can have knowledge of such facts if they are believed based on [Successful Testimony] and/or [Correct Reasoning From True Premises].
+tokens:
+  - "Beans in the Garden 1: Veronika believes that beans grew in the back of the garden 20 years ago, because she remembers her father planting and harvesting beans there. She remembers correctly, and her belief is true."

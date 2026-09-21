@@ -1,0 +1,7 @@
+name: "Insufficient Indirect Cognitive Help"
+descriptions:
+  - "Some factor influences S’s cognitive states such that it increases S’s reliability when forming beliefs about whether p by perception, memory or reasoning (e.g., by making S more attentive / alert). However, it doesn’t increase S’s reliability sufficiently to prevent S forming the false belief that p based on [Misperception], [Misremembering] and/or [False Reasoning]."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Birdwatcher 1: Stefan has been administered a novel drug that increases cognitive processing and puts him in a state of high alertness to all his visual impressions. While he’s sitting in the garden, he notices a small brown bird in the bush next to him. Stefan sees it very clearly and, thanks to the drug, notices both the bird’s brown plumage and its thin and pointy beak. However, he makes a reasoning mistake when inferring that the bird is a female house sparrow. The bird is actually a dunnock, which has a similar plumage, but a thinner and pointier beak."

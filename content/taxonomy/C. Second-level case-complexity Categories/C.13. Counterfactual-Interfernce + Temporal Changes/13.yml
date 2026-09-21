@@ -1,0 +1,12 @@
+name: "Change of Truth Value, Basis for Belief & Doxastic Attitude: Counterfactual-Interference to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Counterfactual-Interference in Modally Close non-p-Worlds], [Counterfactual-Interference in Modally Close p-Worlds], [Instrument Counterfactual-Interference in Modally Close non-p-Worlds] or [Instrument Counterfactual-Interference in Modally Close p Worlds].
+
+    At t~2~ p is false, but S believes that non-p based on [Unsuitable Reason].
+comments: []
+tokens:
+  - |
+    Counterfactually Fake Video Call 15: As in Keßels et al.’s (2026) Counterfactually Fake Video Call 1 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds]), “Judy wants to talk to her line manager Ben. Approaching his workspace, Judy sees that Ben is talking into his headset and that a video call app is opened on his laptop.” (n.pag.) She forms the belief that Ben is on a video call. “What Judy doesn’t realise is that Ben was determined to avoid talking to Judy at all costs. To deter Judy from addressing him, Ben had planned to fake being on a video call with Sara. […] However, just when Judy approaches his workspace, Ben actually receives an unexpected video call from Sara.” (n.pag.) 
+
+    In this version, Ben later hears from another colleague that the reason Judy wants to talk to him is that she wants to apply for a job in another department. Since Ben would be pleased for Judy to leave his team, he now is willing to talk to her, and wouldn’t try to fake being on a video call. The next day Judy is about to walk over to his workspace at a time when Ben has a weekly video call scheduled. Based on wishful thinking, she believes that Ben isn’t on the call and will talk to her. As it so happens, it is true that Ben isn’t currently on a video call, since his meeting was unexpectedly cancelled. However, just in that moment, Judy herself receives an unexpected call from an important client. She postpones talking to Ben and takes the call.

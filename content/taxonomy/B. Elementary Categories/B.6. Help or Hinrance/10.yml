@@ -1,0 +1,7 @@
+name: "Insufficient Sensory Help"
+descriptions:
+  - "Some factor influences S’s sensory organs or perceptual process such that S’s perception is improved. However, this is insufficient to prevent S forming the false belief that p based on [Misperception] and/or [False Reasoning] relating to what S perceives in the moment."
+comments:
+  - "Since S gains a false belief in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - "Birdwatcher 3: Stefan is watching birds in the garden. He spots a small brown bird. Using binoculars to get a better look, he comes to the false belief that the bird is a dunnock. The bird he has spotted is actually a female house sparrow. Even with the aid of binoculars, the bird is too far away for Stefan to realise that it doesn’t have the characteristic thin and pointy beak."

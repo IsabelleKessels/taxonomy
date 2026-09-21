@@ -1,0 +1,9 @@
+name: "Change of Basis for Belief: Paradigmatic Knowledge to Help"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises]. 
+
+    At t~2~ p is true, but S believes that p based on [Direct Cognitive Help], [Indirect Cognitive Help] or [Sensory Help].
+comments: []
+tokens:
+  - "Milk Demon 2: In the morning, Anna forms the true belief that there’s milk in the fridge, because she’s just put a half empty carton in there. Later that day, a benevolent demon sets Anna into a state of believing that there’s milk in the fridge, which is true."

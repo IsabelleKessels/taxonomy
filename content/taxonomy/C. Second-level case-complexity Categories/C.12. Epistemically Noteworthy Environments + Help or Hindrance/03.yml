@@ -1,0 +1,6 @@
+name: "Unfriendly Environment Triggers Direct Cognitive Help"
+descriptions:
+  - "Unknown to S, S is in an environment featuring misleading evidence in regards to p~1~ (or p-type propositions). By chance, S is about to encounter the non-misleading evidence. Triggered by the imminent risk of gaining a false p-type belief based on misleading evidence, however, some factor intervenes and influences S’s normal belief-formation processes. It sets S into a state of believing that p~1~, which is true."
+comments: []
+tokens:
+  - "Fake Barns Corrected: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks out of his car window at the genuine barn. In this version, however, Henry is about to form the true belief that the structure is a barn on his own accord, when a benevolent, but overly cautious demon intervenes: The demon wants to prevent people in the area from forming false beliefs about barns. It thus sets Henry into a state of believing that he’s looking at a real barn. If he had faced one of the façades, it would have set Henry into a state of believing that he’s looking at a façade."

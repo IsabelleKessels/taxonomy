@@ -1,0 +1,19 @@
+name: "Instrument Counterfactual-Interference in Modally Close non-p-Worlds"
+descriptions:
+  - |
+    In the @-world p is true. S reads a reliable instrument displaying “p” and infers that p.
+
+    In modally close possible worlds, p would be false, but an interference would tamper with the instrument so that it would display “p.” S would read the instrument and form the false belief that p.
+comments:
+  - |
+    Kelp (2009) intuits about Demon Clock 1: “Intuitively, I take it, Russell knows that it’s 8:22 upon reading the clock.” (27.) In contrast to this, Pritchard (2014) states: “I don’t at all share the intuition that the agent in DEMON has knowledge.” (160.)
+
+    Keßels et al. (2026) use a vignette closely modelled after Demon Clock 1 in their x-phi study. Their data supports Kelp’s rather than Pritchard’s intuition: On a Likert scale from 1 to 7, where 7 indicated the attribution of knowledge, mean response to Demon Clock 1 was 5.30 (n = 520, SD = 1.97).
+  - "Bogardus (2014) intuits about Atomic Clock: “[Y]ou may find it intuitively obvious, as I do, that Smith knows.” (302.)"
+
+tokens:
+  - "Kelp’s (2009) Demon Clock 1: “Suppose Russell’s archnemesis has an interest that Russell forms a belief (no matter whether true or not) that it’s 8:22 by looking at the grandfather clock when he comes down the stairs. Russell’s arch-nemesis is prepared to do whatever it may take in order to ensure that Russell acquires a belief that it’s 8:22 by looking at the grandfather clock when he comes down the stairs. ([…] Russell’s arch-nemesis […] may be an evil-demon who can set the clock to 8:22 with his invisible hand a second before Russell looks at it.) However, Russell’s arch-nemesis is also lazy. He will act only if Russell does not come down the stairs at 8:22 of his own accord. Suppose, as it so happens, Russell does come down the stairs at 8:22. Russell’s arch-nemesis remains inactive. Russell forms a belief that it’s 8:22. It is 8:22. The grandfather clock is working reliably as always.” (27.)"
+  - |
+    Bogardus’ (2014) Atomic Clock: “[T]he world’s most accurate clock hangs in Smith’s office at a cereal factory, and Smith knows this. The clock’s accuracy is due to a clever radiation sensor, which keeps time by detecting the transition between two energy levels in cesium-133 atoms. This radiation sensor is very sensitive, however, and could easily malfunction if a radioactive isotope were to decay in the vicinity (a very unlikely event, given that Smith works in a cereal factory). This morning, against the odds, someone did in fact leave a small amount of a radioactive isotope near the world’s most accurate clock in Smith’s office. This alien isotope has a relatively short half-life, but – quite improbably – it has not yet decayed at all. It is 8:20 am. The alien isotope will decay at any moment, but it is indeterminate when exactly it will decay. Whenever it does, it will disrupt the clock’s sensor, and freeze the clock on the reading “8:22.” (Don’t ask why; it’s complicated.) […] The clock is in danger of stopping at any moment, even while it currently continues to be the world’s most accurate clock.
+
+    Smith is quite punctual, and virtually always arrives in her office on workdays between 8:20 and 8:25 am, though no particular time in that duration is more likely than any other to see her arrive. Upon entering her office, Smith always looks up at her clock and notes the time of her arrival. […] [T]hat alien isotope has not yet decayed, and so the clock is running normally at 8:22 am when Smith enters her office. Smith takes a good hard look at the world’s most accurate clock – what she knows is an extremely well-designed clock that has never been tampered with – and forms the true belief that it is 8:22 am.” (300.)

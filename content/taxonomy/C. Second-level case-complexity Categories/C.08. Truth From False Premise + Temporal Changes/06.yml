@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief: Paradigmatic Lack of Knowledge to Gettiered"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that p based on [Unsuitable Reason].
+
+    At t~2~ p is true, but S believes that p based on [False Premise Gettier], [Direct Gettier] or [Instrument Gettier]. 
+comments: 
+  - "I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but [sub-types] may need to be build based on whether the (backup) truth-maker at t~2~ is already present at t~1~, or whether there’s a different truth-maker at t~1~."
+tokens:
+  - |
+    Sheep 4: Alex is on a hiking trail, which will lead her to a viewpoint in about half an hour. Alex likes sheep and, based on wishful thinking, she forms the belief that there is a sheep in the field that she’ll be overlooking from that viewpoint. As it so happens, there really is a sheep in the field at that point in time.
+    
+    Half an hour later, and as in Chisholm’s (1966/1989) Sheep 1 (see B.2., [Direct Gettier]), Alex has reached the viewpoint and is overlooking the field. Alex “*takes* there to be a sheep in the field and does so under conditions which are such that, when under those conditions a person takes there to be a sheep in the field, then it is *evident* for that person that there is a sheep in the field. The person [Alex; IK], however, has mistaken a dog for a sheep and so what [s]he sees is not a sheep at all. Nevertheless it happens that there *is* a sheep in another part of the field.” (93.)

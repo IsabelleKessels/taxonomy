@@ -1,0 +1,10 @@
+name: "Receiver of Unsuccessfully Transmitted Testimony Gains Knowledge From Falsehood"
+descriptions:
+  - |
+    A trustworthy and reliable attester, R, asserts that p: p is true, but S misunderstands (because external factors influence the transmission, S is inattentive, etc.) and forms the belief q. q is false but (deductively, inductively, or abductively) entails that p. Based on this entailment, S forms the belief that p. S has no delusional beliefs about what makes R trustworthy and reliable.
+    
+    The truthful attestation of p is interdependent on the presence of the misleading evidence for q: In modally close worlds where p is false, R wouldn’t attest that p and S wouldn’t misunderstand that q and infer that p.
+comments:
+  - "I suspect that no *gettiering* variant of such a set-up involving [Unsuccessful Testimony] can be build, because it doesn’t allow for a sufficient independence between the truth-maker for p and S’s misleading evidence for q, upon which S bases their belief that p: As a trustworthy and reliable attester R wouldn’t claim that p if p were false, and thus S wouldn’t gain a belief that q, based on which to infer p, in modally close possible worlds where p is false. Accordingly, this envokes a ‘Knowledge From Falsehood’ structure rather than *gettiering*. By this, I don’t mean to make a judgement about whether the case evokes a knowledge intuition."
+tokens:
+  - "Milk Chat: Jenny and Anna are chatting in a busy pub, Jenny says “I’ve tried plant-based milk for the first time today, it was better than I expected.” Due to the background noise, Anna mishears her and comes to believe that Jenny tried oat milk. This is false, Jenny had soy milk. Yet, Anna deduces from what she understood that Jenny tried plant-based milk for the first time today, which is true."

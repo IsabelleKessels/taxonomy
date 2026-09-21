@@ -1,0 +1,9 @@
+name: "Unfriendly but Counterfactually Accommodating Environment"
+descriptions:
+  - |
+    In the @-world p~1~ is true, but S believes that p~1~ based on [Unfriendly Environment] or [Unfriendly Instruments Environment].
+
+    In modally close possible worlds, p~1~ would be true, but, unknown to S, there would be an interference to the effect that there would be no misleading evidence in regards to p~1~ (or p-type propositions) in S’s environment (either by turning it into non-misleading evidence, or by making it disappear). S would perceive non-misleading evidence and, based on this, would form a true p-type belief. The interference would be triggered in any close possible world in which S would otherwise be about to perceive the misleading evidence.
+comments: []
+tokens:
+  - "Playful Barn Demon 3: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks at the genuine barn. As in Grundmann’s (2020) Playful Barn Demon 1 (see B.4., [Counterfactual-Interference in Modally Close non-p-Worlds]), there is a demon who has the power to interfere with Henry’s surroundings. In this version, however, it’s a benevolent demon: It would only interfere if Henry were looking at one of the barn-façades, and in this case, the demon would turn all façades into real barns."

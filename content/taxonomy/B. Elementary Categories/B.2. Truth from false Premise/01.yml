@@ -1,0 +1,28 @@
+name: "False Premise Gettier"
+descriptions:
+  - |
+    S believes that q based on [Misperception], [Misremembering] and/or [False Reasoning]. q is false, but S forms a (deductively, inductively, or abductively) entailed belief p. There is a backup truth-maker for p, so p happens to be true.
+
+    The backup truth-maker is independent of the presence of misleading evidence for q: In some modally close worlds q would be false and S would come to believe that p based on the false belief that q, but no backup truth-maker would be present, so p would be false.
+comments:
+  - |
+    Gettier (1963) intuits about Ford Barcelona: “Smith does *not* know that (h) is true[.]” (123.)
+
+    Note that Gettier’s (1963) second example (Coins) involves the further complication of {{< sc >}}Testimony{{< /sc >}}, hence, it is subsumed under C.1., [Gettiered Receiver of False Testimony].
+  - "Russell (1948) presents Prime Minister 1 as one of several “examples of true belief that are not knowledge” (140)."
+tokens:
+  - |
+    Gettier’s (1963) Ford Barcelona: “Smith has strong evidence for the following proposition:
+
+    (f) Jones owns a Ford.
+
+    Smith’s evidence might be that Jones has at all times in the past within Smith’s memory owned a car, and always a Ford, and that Jones has just offered Smith a ride while driving a Ford. Let us imagine, now, that Smith has another friend, Brown, of whose whereabouts he is totally ignorant. Smith selects three place-names quite at random, and constructs the following three propositions:
+
+    (g) Either Jones owns a Ford, or Brown is in Boston;
+
+    (h) Either Jones owns a Ford, or Brown is in Barcelona;
+
+    (i) Either Jones owns a Ford, or Brown is in Brest-Litovsk.
+
+    Each of these propositions is entailed by (f). […] Smith realizes the entailment of each of these propositions […] and proceeds to accept (g), (h), and (i) on the basis of (f). […] But […] two further conditions hold. First, Jones does not own a Ford, but is at present driving a rented car. And secondly, by the sheerest coincidence, and entirely unknown to Smith, the place mentioned in proposition (h) happens really to be the place where Brown is.” (122f.)
+  - "Russell’s (1948) Prime Minister 1: “There is the man who believes, truly, that the last name of the Prime Minister in 1906 began with a B, but who believes this because he thinks that Balfour was Prime Minister then, whereas it was Campbell Bannerman.” (140.)"

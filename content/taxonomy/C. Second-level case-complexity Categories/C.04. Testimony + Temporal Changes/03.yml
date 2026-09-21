@@ -1,0 +1,10 @@
+name: "Change of Basis for Belief: Successful Testimony Pre-empting Receiver’s Evidential Base"
+descriptions:
+  - |
+    At t~1~ p is true and S believes that p based on [Clear Perception], [Accurate Memory] and/or [Correct Reasoning From True Premises].
+
+    At t~2~ p is true and S receives testimony that p by trustworthy and reliable attester R. Now S believes that p based on this [Successful Testimony], it pre-empts the basis for believing p S had at t~1~.
+comments: 
+  - "See [Change of Basis for Belief: Successful Testimony Widening Receiver’s Evidential Base]."
+tokens:
+  - "Expert Botanist 2: The initial set-up is identical to Dormandy’s (2017) Expert Botanist 1, in this version, however, the botanist’s testimony overrides your reasons for believing that you’re seeing a Boston fern."

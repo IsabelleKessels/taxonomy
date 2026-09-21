@@ -1,0 +1,15 @@
+name: "Counterfactual Absence of Indirect Cognitive Help in non-p-Words"
+descriptions:
+  - |
+    In the @-world p is true, but S believes that p based on [Indirect Cognitive Help]. 
+
+    In modally close possible worlds, p would be false and there would be an interference preventing the administering of [Indirect Cognitive Help]. S would form a false belief that p based on
+
+    - [Indirect Cognitive Hindrance], or 
+    - [Misperception], [Misremembering] and/or [False Reasoning].
+comments: []
+tokens:
+  - |
+    Counterfactually Sleepy: Merle is a night guard at an industrial park. She’s overlooking several screens to check if there are any unusual incidences. On the job, she consumes energy drinks; otherwise, she tends to get sleepy and inattentive. Merle looks at the screens and judges correctly that everything is in order.
+
+    In close possible worlds, her shift partner, Sam, would have switched out Merle’s drink for something of the same taste but without caffeine. He would have done this so that Merle wouldn’t notice him sneaking away to spray a slogan on one of the walls. Merle would be so sleepy, that she’d believe that there were no unusual incidences. At the last moment, however, in the @-world, Sam abandons his plans.

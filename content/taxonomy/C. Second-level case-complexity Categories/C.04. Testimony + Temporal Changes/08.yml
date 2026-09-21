@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Successful Testimony Convinces Receiver to Change Doxastic Attitude"
+descriptions:
+  - |
+    At t~1~ p is true, but S believes that non-p based on
+
+    - [Misperception], [Misremembering] and/or [False Reasoning],
+    - [False Testimony] by attester T, or
+    - [Unsuccessful Transmission] or [Testimony-Based False Implication] by attesters T or R.
+
+    At t~2~ p is true and S receives testimony that p by a trustworthy and reliable attester, R. Based on this [Successful Testimony] S now believes that p. S has no delusional beliefs about what makes R trustworthy and reliable.
+comments: []
+tokens:
+  - "Auntie Jana 4: On Thursday Riley and Sara are talking to each other on the phone. Riley tells her, “auntie Jana is turning *seventy-one* on Sunday,” but – due to a bad phone connection – Sara mishears her and comes to believe that “auntie Jana is turning *seventy on* Sunday.” On Sunday morning Sara and Riley meet to write Jana’s birthday card. Riley says: “Should I write ‘Happy seventieth’s birthday’?” Sara corrects her: “Jana’s turned seventy-one.” Riley realises that she misheard Sara on the phone."

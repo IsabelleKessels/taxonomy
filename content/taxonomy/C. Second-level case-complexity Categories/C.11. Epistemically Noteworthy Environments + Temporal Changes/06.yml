@@ -1,0 +1,13 @@
+name: "Change of Basis for Belief & Doxastic Attitude: Overcorrection after Uncovering Misleading Evidence – Unfriendly Environment to Paradigmatic Lack of Knowledge"
+descriptions:
+  - |
+    At t~1~ p~1~ is true, but S believes that p~1~ based on [Unfriendly Environment] or [Unfriendly Instruments Environment]. 
+
+    At t~2~ p~1~ is true. S is in the same environment as at t~1~. S encounters misleading evidence for the matter of fact described by some other p-type proposition(s) p~n~ (where p~n~ ≠ p~1~), however, S realises that this evidence is misleading and that p~n~ is false. Based on the realisation that the environment features misleading evidence for p type propositions, S falsely reasons that the evidence for p~1~ at t~1~ was misleading too, so S forms the belief that non-p~1~. However, p~1~ was and remains true.
+comments: 
+  - "Since S gains a false belief at t~2~ in tokens of this [type], I will presume it’s uncontroversial that S *lacks knowledge*."
+tokens:
+  - |
+    Fake Barns Over Time 4: As in Goldman’s (1976) Fake Barns (see B.3., [Unfriendly Environment]), Henry is in Fake Barn County and looks out of his car window at the genuine barn. He forms the true belief that the structure is a barn. 
+
+    He drives on for a few minutes and, a couple of miles down the road, spots further barn-like structures. He decides to get out of the car to explore the area on foot. He approaches several barn-like structures and realises that they are all mere barn-façades. Henry forms the belief that the structure he drove by earlier probably wasn’t a barn either. This is a false belief, as the first structure he passed was a genuine barn.

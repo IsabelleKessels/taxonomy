@@ -1,0 +1,10 @@
+name: "Blameless Counterfactually False Testimony"
+descriptions:
+  - |
+    R is a trustworthy and reliable attester. In the @-world p~1~ is true and R asserts that p~1~. S forms the belief that p~1~ based on R’s testimony.
+    
+    In modally close possible worlds, p~1~ would be true, but some counterfactual-interference (coercion, violence, manipulation, etc.) would force R to attest that non-p~1~ (or that p~n~, where p~n~ would be false) to S against R’s will. S would not recognize this and gain a false belief that non-p~1~ (or p~n~).
+comments: 
+  - "I’m unaware of armchair based intuition-reports or empirical studies investigating intuitions on tokens of this [case-type]; but I suspect the reason *why* R would attest a falsehood may influence people’s intuition, as it reveals whether R is a trustworthy attester or not."
+tokens:
+  - "Halloween Party Threat: Everything is as in Comesaña’s (2005) Halloween Party (see [Deliberate Counterfactually False Testimony Through Interference with p]), except that if Judy’s questioner is Michael (or is mistaken for Michael), Judy is supposed to lie and say the party is down the right road. The party stays located down the left road. Moreover, Andy didn’t employ Judy but threatened her with violence if she did not do as he said."

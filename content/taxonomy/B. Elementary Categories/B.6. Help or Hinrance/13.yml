@@ -1,0 +1,6 @@
+name: "Unsuitable Reasoning After Sensory Hindrance"
+descriptions:
+  - "Some factor influences S’s sensory organs or perceptual process such that S’s perception is corrupted. S realises that something is amiss with S’s perceptual process. p is true, but S forms the belief that p based on [Unsuitable Reason]."
+comments: []
+tokens:
+  - "Flea Market 6: Lars visits a flea market. He has a sight condition which entails high sensitivity to glaring light. It’s a bright summer’s day and Lars has been outdoors for a while already, so by now his vision is somewhat impaired by eye strain and pains. While looking through a stall’s merchandise he picks up a shirt. Due to eye strain, he’s unable to discern whether it’s a shirt from a reputable brand or a dupe, but he takes a wild guess and forms the belief that it’s a dupe. Lars is correct. In fact, it’s a quite blatant dupe. In different lighting, where his eyes are less strained, Lars would have perceived the tell-tale signs and formed this belief based on (accurate) perception and reasoning."
