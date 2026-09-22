@@ -48,7 +48,7 @@ Keßels, I. (2026). *Category number. Name of {{< sc >}}Category{{< /sc >}} **or
 
 Examples:
 Citation of the introduction to the {{< sc >}}Category Testimony{{< /sc >}}:
-Keßels, I. (2026). *B.1. {{< sc >}}Testimony{{< /sc >}}.* Knowledge Taxonomy. https://isabellekessels.github.io/taxonomy/b.-elementary-categories/b.1.-testimony/
+Keßels, I. (2026). *B.1. {{< sc >}}Testimony{{< /sc >}}.* Knowledge Taxonomy. https://isabellekessels.github.io/taxonomy/taxonomy/b.-elementary-categories/b.1.-testimony/
 
 Citation of the [case-type]-formulation, token or commentary of [Successful Testimony]:
-Keßels, I. (2026). *B.1. [Successful Testimony].* Knowledge Taxonomy. https://isabellekessels.github.io/taxonomy/b.-elementary-categories/b.1.-testimony/
+Keßels, I. (2026). *B.1. [Successful Testimony].* Knowledge Taxonomy. https://isabellekessels.github.io/taxonomy/taxonomy/b.-elementary-categories/b.1.-testimony/

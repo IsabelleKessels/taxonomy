@@ -22,7 +22,7 @@ make build
 
 Suggestions for additional cases or thought experiments are welcome. To propose one, open an issue or a pull request following the folder structure described above.
 
-### Copyright and Licence
+## Copyright and Licence
 
 The original content created by the website operator and published on this website is protected by German copyright law and, unless otherwise stated, is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0) Licence**.
 
